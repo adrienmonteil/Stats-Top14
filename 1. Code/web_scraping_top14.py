@@ -14,6 +14,7 @@ import time
 from bs4 import BeautifulSoup
 import urllib.request
 from selenium import webdriver
+from webdriver_manager.chrome import ChromeDriverManager
 import re
 import pygame
 
@@ -29,8 +30,10 @@ import pygame
 #                             WEBSITE CONNEXION                               #
 ###############################################################################
 
+
 def set_driver(url, button_cookies) :
-    driver = webdriver.Chrome("C:/Users/monte/Downloads/chromedriver.exe")
+    driver = webdriver.Chrome(ChromeDriverManager().install())
+    #driver = webdriver.Chrome("C:/Users/monte/Downloads/chromedriver.exe")
     driver.get(url)
     time.sleep(6)
     #soup = BeautifulSoup(driver.page_source, 'html.parser')
@@ -321,24 +324,16 @@ def data_to_csv(L, game_day) :
     start_time = time.time()
     assert len(L) == len(set(L)), "Match links are not all differents"
     events, info, pl_stats, tm_stats = load_all_matches(L, game_day)
-    update('D:/Documents/Stats/Rugby/web_scrapping/data_event.csv', events)
-    update('D:/Documents/Stats/Rugby/web_scrapping/data_info.csv', info)
-    update('D:/Documents/Stats/Rugby/web_scrapping/player_stats.csv', pl_stats)
-    update('D:/Documents/Stats/Rugby/web_scrapping/team_stats.csv', tm_stats)  
+    update('./2.Exports/data_event.csv', events)
+    update('./2.Exports/data_info.csv', info)
+    update('./2.Exports/player_stats.csv', pl_stats)
+    update('./2.Exports/team_stats.csv', tm_stats)  
 
     duree = time.time() - start_time
     print('Durée du programme : ' + str(int(duree/60)) + 'min ' +str(int(duree/60%1*60)) + 's')
     
-    # duration = 800  # milliseconds
-    # freq = 800  # Hz
-    # winsound.Beep(freq, duration)
-    # winsound.Beep(freq, duration)
-    # winsound.Beep(freq, duration)
-    # winsound.Beep(freq, duration)
-    # winsound.Beep(1200, duration)
-    pygame.mixer.init()
-    pygame.mixer.music.load('D:\Documents\Stats\Rugby\web_scrapping\Sons\son_brahimi.mp3')
-    pygame.mixer.music.play()
+
+
 
 ###############################################################################
 # =============================================================================
@@ -364,3 +359,4 @@ M7 = 'https://www.espn.com/rugby/match?gameId=593411&league=270559'
 L = [M1, M2, M3, M4, M5, M6, M7]
 
 data_to_csv(L, 26)
+

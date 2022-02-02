@@ -4,6 +4,816 @@ GAME_DAY;MATCH_ID;MINUTE;HOME_SCORE;AWAY_SCORE;ACTION_TYPE;PLAYER;TEAM
 26;FR270559593405;7.0;3;3;Penalty goal;Joris Segonds;Stade Francais Paris
 26;FR270559593405;12.0;6;3;Penalty goal;Gaetan Germain;Bayonne
 26;FR270559593405;15.0;6;3;Substitute off;Michael Ruru;Bayonne
+26;FR270559593405;15.0;6;3;Substitute on;Guillaume Rouet Piffard;Bayonne
+26;FR270559593405;34.0;6;3;Drop Goal Missed;;
+26;FR270559593405;35.0;9;3;Penalty goal;Gaetan Germain;Bayonne
+26;FR270559593405;43.0;9;3;End of first half;;
+26;FR270559593405;40.0;9;3;Start of second half;;
+26;FR270559593405;42.0;9;3;Substitute off;Yoann Maestri;Stade Francais Paris
+26;FR270559593405;42.0;9;3;Substitute on;Pierre-Henri Azagoh;Stade Francais Paris
+26;FR270559593405;44.0;9;6;Penalty goal;Joris Segonds;Stade Francais Paris
+26;FR270559593405;44.0;9;6;Substitute on;Konstantine Mikautadze;Bayonne
+26;FR270559593405;44.0;9;6;Substitute off;Guillaume Ducat;Bayonne
+26;FR270559593405;51.0;9;9;Penalty goal;Joris Segonds;Stade Francais Paris
+26;FR270559593405;51.0;9;9;Substitute on;Jean Monribot;Bayonne
+26;FR270559593405;51.0;9;9;Substitute off;Asier Usarraga;Bayonne
+26;FR270559593405;51.0;9;9;Substitute off;Arnaud Duputs;Bayonne
+26;FR270559593405;51.0;9;9;Substitute on;Filimo Taofifenua;Bayonne
+26;FR270559593405;51.0;9;9;Substitute off;Moses Alo-Emile;Stade Francais Paris
+26;FR270559593405;51.0;9;9;Substitute on;Vasil Kakovin;Stade Francais Paris
+26;FR270559593405;56.0;9;9;Substitute off;James Hall;Stade Francais Paris
+26;FR270559593405;56.0;9;9;Substitute on;Arthur Coville;Stade Francais Paris
+26;FR270559593405;58.0;9;9;Substitute off;Pablo Matera;Stade Francais Paris
+26;FR270559593405;58.0;9;9;Substitute on;Loic Godener;Stade Francais Paris
+26;FR270559593405;63.0;9;9;Substitute off;John Ulugia;Bayonne
+26;FR270559593405;63.0;9;9;Substitute on;Torsten van Jaarsveld;Bayonne
+26;FR270559593405;63.0;9;9;Substitute off;Manuel Ordas;Bayonne
+26;FR270559593405;63.0;9;9;Substitute on;Yan Lestrade;Bayonne
+26;FR270559593405;65.0;9;9;Substitute off;Antoine Burban;Stade Francais Paris
+26;FR270559593405;65.0;9;9;Substitute on;Pablo Matera;Stade Francais Paris
+26;FR270559593405;65.0;9;9;Substitute on;Luc Mousset;Bayonne
+26;FR270559593405;65.0;9;9;Substitute off;Sam Nixon;Bayonne
+26;FR270559593405;67.0;9;9;Substitute off;Afaesetiti Amosa;Bayonne
+26;FR270559593405;67.0;9;9;Substitute on;Asier Usarraga;Bayonne
+26;FR270559593405;68.0;9;9;Substitute on;Mathieu de Giovanni;Stade Francais Paris
+26;FR270559593405;68.0;9;9;Substitute off;Paul Gabrillagues;Stade Francais Paris
+26;FR270559593405;72.0;9;9;Substitute on;Manuel Ordas;Bayonne
+26;FR270559593405;72.0;9;9;Substitute off;Theo Costosseque;Bayonne
+26;FR270559593405;72.0;9;9;Substitute on;Swan Cormenier;Bayonne
+26;FR270559593405;72.0;9;9;Substitute off;Ugo Boniface;Bayonne
+26;FR270559593405;74.0;9;12;Penalty goal;Joris Segonds;Stade Francais Paris
+26;FR270559593405;75.0;9;12;Substitute off;Luc Mousset;Bayonne
+26;FR270559593405;75.0;9;12;Substitute on;Sam Nixon;Bayonne
+26;FR270559593405;78.0;9;12;Substitute on;Lucas da Silva;Stade Francais Paris
+26;FR270559593405;78.0;9;12;Substitute off;Tolu Latu;Stade Francais Paris
+26;FR270559593405;79.0;9;12;Substitute on;Paul Gabrillagues;Stade Francais Paris
+26;FR270559593405;79.0;9;12;Substitute off;Sekou Macalou;Stade Francais Paris
+26;FR270559593405;83.0;9;12;End of second half;;
+26;FR270559593406;1.0;0;0;Start of first half;;
+26;FR270559593406;2.0;0;5;Try;Louis Carbonel;Toulon
+26;FR270559593406;3.0;0;7;Conversion;Louis Carbonel;Toulon
+26;FR270559593406;15.0;0;7;Substitute off;Charles Ollivon;Toulon
+26;FR270559593406;15.0;0;7;Substitute on;Raphael Lakafia;Toulon
+26;FR270559593406;15.0;0;10;Penalty goal;Louis Carbonel;Toulon
+26;FR270559593406;21.0;0;15;Try;Eben Etzebeth;Toulon
+26;FR270559593406;23.0;0;17;Conversion;Louis Carbonel;Toulon
+26;FR270559593406;23.0;0;17;Substitute off;Tom Staniforth;Castres Olympique
+26;FR270559593406;23.0;0;17;Substitute on;Loic Jacquet;Castres Olympique
+26;FR270559593406;26.0;5;17;Try;Gaetan Barlot;Castres Olympique
+26;FR270559593406;26.0;7;17;Conversion;Benjamin Urdapilleta;Castres Olympique
+26;FR270559593406;33.0;7;17;Yellow card;Anthony Etrillard;Toulon
+26;FR270559593406;34.0;12;17;Try;Benjamin Urdapilleta;Castres Olympique
+26;FR270559593406;35.0;14;17;Conversion;Benjamin Urdapilleta;Castres Olympique
+26;FR270559593406;41.0;17;17;Penalty goal;Benjamin Urdapilleta;Castres Olympique
+26;FR270559593406;41.0;17;17;End of first half;;
+26;FR270559593406;40.0;17;17;Start of second half;;
+26;FR270559593406;40.0;17;17;Substitute off;Rory Kockott;Castres Olympique
+26;FR270559593406;40.0;17;17;Substitute on;Santiago Arata;Castres Olympique
+26;FR270559593406;45.0;22;17;Try;Thomas Combezou;Castres Olympique
+26;FR270559593406;46.0;24;17;Conversion;Benjamin Urdapilleta;Castres Olympique
+26;FR270559593406;49.0;29;17;Try;Benjamin Urdapilleta;Castres Olympique
+26;FR270559593406;50.0;29;17;Substitute off;Facundo Isa;Toulon
+26;FR270559593406;50.0;29;17;Substitute on;Julien Ory;Toulon
+26;FR270559593406;50.0;31;17;Conversion;Benjamin Urdapilleta;Castres Olympique
+26;FR270559593406;52.0;31;17;Substitute on;Baptiste Delaporte;Castres Olympique
+26;FR270559593406;52.0;31;17;Substitute off;Mathieu Babillot;Castres Olympique
+26;FR270559593406;53.0;31;22;Try;Romain Taofifenua;Toulon
+26;FR270559593406;54.0;31;24;Conversion;Louis Carbonel;Toulon
+26;FR270559593406;56.0;34;24;Penalty goal;Benjamin Urdapilleta;Castres Olympique
+26;FR270559593406;57.0;34;24;Substitute on;Sebastien Taofifenua;Toulon
+26;FR270559593406;57.0;34;24;Substitute off;Jean-Baptiste Gros;Toulon
+26;FR270559593406;57.0;34;24;Substitute off;Romain Taofifenua;Toulon
+26;FR270559593406;57.0;34;24;Substitute on;Adrien Warion;Toulon
+26;FR270559593406;57.0;34;24;Substitute on;Anthony Belleau;Toulon
+26;FR270559593406;57.0;34;24;Substitute off;Isaia Toeava;Toulon
+26;FR270559593406;61.0;34;24;Substitute off;Julien Ory;Toulon
+26;FR270559593406;61.0;34;24;Substitute on;Facundo Isa;Toulon
+26;FR270559593406;61.0;34;24;Substitute on;Maama Vaipulu;Castres Olympique
+26;FR270559593406;61.0;34;24;Substitute off;Tyler Ardron;Castres Olympique
+26;FR270559593406;61.0;34;24;Substitute off;Wilfrid Hounkpatin;Castres Olympique
+26;FR270559593406;61.0;34;24;Substitute on;Levan Chilachava;Castres Olympique
+26;FR270559593406;62.0;34;24;Yellow card;Maama Vaipulu;Castres Olympique
+26;FR270559593406;67.0;34;24;Substitute on;Julius Nostadt;Castres Olympique
+26;FR270559593406;67.0;34;24;Substitute off;Antoine Tichit;Castres Olympique
+26;FR270559593406;67.0;34;24;Substitute off;Anthony Etrillard;Toulon
+26;FR270559593406;67.0;34;24;Substitute on;Bastien Soury;Toulon
+26;FR270559593406;67.0;34;24;Substitute off;Beka Gigashvili;Toulon
+26;FR270559593406;67.0;34;24;Substitute on;Florian Fresia;Toulon
+26;FR270559593406;71.0;34;24;Substitute on;Tyler Ardron;Castres Olympique
+26;FR270559593406;71.0;34;24;Substitute off;Florent Vanverberghe;Castres Olympique
+26;FR270559593406;71.0;34;24;Substitute off;Gaetan Barlot;Castres Olympique
+26;FR270559593406;71.0;34;24;Substitute on;Paula Ngauamo;Castres Olympique
+26;FR270559593406;71.0;34;24;Substitute off;Eben Etzebeth;Toulon
+26;FR270559593406;71.0;34;24;Substitute on;Romain Taofifenua;Toulon
+26;FR270559593406;74.0;39;24;Try;Geoffrey Palis;Castres Olympique
+26;FR270559593406;75.0;41;24;Conversion;Benjamin Urdapilleta;Castres Olympique
+26;FR270559593406;76.0;41;24;Substitute on;Adrea Cocagi;Castres Olympique
+26;FR270559593406;76.0;41;24;Substitute off;Vilimoni Botitu;Castres Olympique
+26;FR270559593406;80.0;46;24;Try;Filipo Nakosi;Castres Olympique
+26;FR270559593406;82.0;46;24;End of second half;;
+26;FR270559593407;1.0;0;0;Start of first half;;
+26;FR270559593407;2.0;3;0;Penalty goal;Morgan Parra;Clermont Auvergne
+26;FR270559593407;11.0;3;5;Try;Dillyn Leyds;La Rochelle
+26;FR270559593407;12.0;3;7;Conversion;Jules Le Bail;La Rochelle
+26;FR270559593407;20.0;3;7;Substitute off;Reda Wardi;La Rochelle
+26;FR270559593407;20.0;3;7;Substitute on;Dany Priso;La Rochelle
+26;FR270559593407;20.0;6;7;Penalty goal;Morgan Parra;Clermont Auvergne
+26;FR270559593407;25.0;9;7;Penalty goal;Morgan Parra;Clermont Auvergne
+26;FR270559593407;28.0;9;10;Penalty goal;Jules Le Bail;La Rochelle
+26;FR270559593407;30.0;12;10;Penalty goal;Morgan Parra;Clermont Auvergne
+26;FR270559593407;34.0;15;10;Penalty goal;Morgan Parra;Clermont Auvergne
+26;FR270559593407;41.0;15;10;End of first half;;
+26;FR270559593407;40.0;15;10;Start of second half;;
+26;FR270559593407;51.0;15;10;Substitute off;Facundo Bosch;La Rochelle
+26;FR270559593407;51.0;15;10;Substitute on;Pierre Bourgarit;La Rochelle
+26;FR270559593407;51.0;15;10;Substitute off;Remi Bourdeau;La Rochelle
+26;FR270559593407;51.0;15;10;Substitute on;Gregory Alldritt;La Rochelle
+26;FR270559593407;53.0;15;10;Substitute off;Sipili Falatea;Clermont Auvergne
+26;FR270559593407;53.0;15;10;Substitute on;Cristian Ojovan;Clermont Auvergne
+26;FR270559593407;53.0;20;10;Try;George Moala;Clermont Auvergne
+26;FR270559593407;54.0;22;10;Conversion;Morgan Parra;Clermont Auvergne
+26;FR270559593407;55.0;22;10;Substitute on;Darren Sweetnam;La Rochelle
+26;FR270559593407;55.0;22;10;Substitute off;Tawera Kerr-Barlow;La Rochelle
+26;FR270559593407;57.0;22;15;Try;Gregory Alldritt;La Rochelle
+26;FR270559593407;58.0;22;17;Conversion;Jules Le Bail;La Rochelle
+26;FR270559593407;58.0;22;17;Substitute on;Jules Favre;La Rochelle
+26;FR270559593407;58.0;22;17;Substitute off;Geoffrey Doumayrou;La Rochelle
+26;FR270559593407;58.0;22;17;Substitute off;Apisai Naqalevu;Clermont Auvergne
+26;FR270559593407;58.0;22;17;Substitute on;Tim Nanai-Williams;Clermont Auvergne
+26;FR270559593407;61.0;22;17;Substitute off;Uini Atonio;La Rochelle
+26;FR270559593407;61.0;22;17;Substitute on;Arthur Joly;La Rochelle
+26;FR270559593407;65.0;25;17;Penalty goal;Morgan Parra;Clermont Auvergne
+26;FR270559593407;65.0;25;17;Substitute on;Sebastien Bezy;Clermont Auvergne
+26;FR270559593407;65.0;25;17;Substitute off;Morgan Parra;Clermont Auvergne
+26;FR270559593407;65.0;25;17;Substitute off;Peni Ravai;Clermont Auvergne
+26;FR270559593407;65.0;25;17;Substitute on;Daniel Bibi Biziwu;Clermont Auvergne
+26;FR270559593407;65.0;25;17;Substitute off;Thomas Lavault;La Rochelle
+26;FR270559593407;65.0;25;17;Substitute on;Mathieu Tanguy;La Rochelle
+26;FR270559593407;65.0;25;17;Substitute off;Kevin Gourdon;La Rochelle
+26;FR270559593407;65.0;25;17;Substitute on;Zeno Kieft;La Rochelle
+26;FR270559593407;70.0;25;17;Substitute off;Alexandre Fischer;Clermont Auvergne
+26;FR270559593407;70.0;25;17;Substitute on;Thibaud Lanen;Clermont Auvergne
+26;FR270559593407;70.0;25;17;Substitute on;Miles Amatosero;Clermont Auvergne
+26;FR270559593407;70.0;25;17;Substitute off;Paul Jedrasiak;Clermont Auvergne
+26;FR270559593407;79.0;25;17;Substitute on;Facundo Bosch;La Rochelle
+26;FR270559593407;79.0;25;17;Substitute off;Pierre Bourgarit;La Rochelle
+26;FR270559593407;79.0;25;20;Penalty goal;Jules Le Bail;La Rochelle
+26;FR270559593407;79.0;25;20;Substitute on;Peter Betham;Clermont Auvergne
+26;FR270559593407;79.0;25;20;Substitute off;Alivereti Raka;Clermont Auvergne
+26;FR270559593407;79.0;25;20;Substitute off;Will Skelton;La Rochelle
+26;FR270559593407;79.0;25;20;Substitute on;Thomas Lavault;La Rochelle
+26;FR270559593407;81.0;25;20;End of second half;;
+26;FR270559593408;1.0;0;0;Start of first half;;
+26;FR270559593408;19.0;5;0;Try;Josua Tuisova;Lyon
+26;FR270559593408;21.0;7;0;Conversion;Jonathan Wisniewski;Lyon
+26;FR270559593408;26.0;12;0;Try;Temo Mayanavanua;Lyon
+26;FR270559593408;28.0;14;0;Conversion;Jonathan Wisniewski;Lyon
+26;FR270559593408;38.0;19;0;Try;Demba Bamba;Lyon
+26;FR270559593408;46.0;19;0;Substitute off;Loris Zarantonello;Agen
+26;FR270559593408;46.0;19;0;Substitute on;Gael Doms;Agen
+26;FR270559593408;44.0;24;0;Try;Dylan Cretin;Lyon
+26;FR270559593408;44.0;24;0;End of first half;;
+26;FR270559593408;40.0;24;0;Start of second half;;
+26;FR270559593408;42.0;29;0;Try;Baptiste Couilloud;Lyon
+26;FR270559593408;43.0;31;0;Conversion;Jonathan Wisniewski;Lyon
+26;FR270559593408;46.0;31;0;Substitute off;Yoan Cottin;Agen
+26;FR270559593408;46.0;31;0;Substitute on;Dorian Bellot;Agen
+26;FR270559593408;46.0;31;0;Substitute on;Killian Geraci;Lyon
+26;FR270559593408;46.0;31;0;Substitute off;Felix Lambey;Lyon
+26;FR270559593408;46.0;31;0;Substitute on;Hamza Kaabeche;Lyon
+26;FR270559593408;46.0;31;0;Substitute off;Vivien Devisme;Lyon
+26;FR270559593408;50.0;31;0;Substitute on;Ethan Dumortier;Lyon
+26;FR270559593408;50.0;31;0;Substitute off;Josua Tuisova;Lyon
+26;FR270559593408;51.0;36;0;Try;Ethan Dumortier;Lyon
+26;FR270559593408;52.0;38;0;Conversion;Jonathan Wisniewski;Lyon
+26;FR270559593408;53.0;38;0;Substitute off;Baptiste Couilloud;Lyon
+26;FR270559593408;53.0;38;0;Substitute on;Jonathan Pelissie;Lyon
+26;FR270559593408;53.0;38;0;Substitute on;Mickael Ivaldi;Lyon
+26;FR270559593408;53.0;38;0;Substitute off;Joe Taufete'e;Lyon
+26;FR270559593408;53.0;38;0;Substitute off;Killian Geraci;Lyon
+26;FR270559593408;53.0;38;0;Substitute on;Felix Lambey;Lyon
+26;FR270559593408;53.0;38;0;Substitute on;Hans Lombard-Buret;Agen
+26;FR270559593408;53.0;38;0;Substitute off;Gael Doms;Agen
+26;FR270559593408;53.0;38;0;Substitute on;Hugo Ndiaye;Lyon
+26;FR270559593408;53.0;38;0;Substitute off;Demba Bamba;Lyon
+26;FR270559593408;53.0;38;0;Substitute off;Jeremy Jordaan;Agen
+26;FR270559593408;53.0;38;0;Substitute on;Timilai Rokoduru;Agen
+26;FR270559593408;53.0;38;0;Substitute on;Mickael Guillard;Lyon
+26;FR270559593408;53.0;38;0;Substitute off;Colby Fainga'a;Lyon
+26;FR270559593408;56.0;38;0;Substitute off;Malino Vanai;Agen
+26;FR270559593408;56.0;38;0;Substitute on;Martin Augeix;Agen
+26;FR270559593408;56.0;38;0;Substitute off;Andres Zafra Tarazona;Agen
+26;FR270559593408;56.0;38;0;Substitute on;Sacha Yahi;Agen
+26;FR270559593408;59.0;43;0;Try;Jonathan Wisniewski;Lyon
+26;FR270559593408;59.0;45;0;Conversion;Jonathan Wisniewski;Lyon
+26;FR270559593408;60.0;45;0;Substitute off;Jonathan Wisniewski;Lyon
+26;FR270559593408;60.0;45;0;Substitute on;Alexandre Tchaptchet;Lyon
+26;FR270559593408;60.0;45;0;Substitute off;Felix Lambey;Lyon
+26;FR270559593408;60.0;45;0;Substitute on;Killian Geraci;Lyon
+26;FR270559593408;62.0;45;0;Substitute on;Raphael Lagarde;Agen
+26;FR270559593408;62.0;45;0;Substitute off;Nathan Decron;Agen
+26;FR270559593408;62.0;45;0;Substitute on;Loris Tolot;Agen
+26;FR270559593408;62.0;45;0;Substitute off;Julien Jane;Agen
+26;FR270559593408;70.0;50;0;Try;Hugo Ndiaye;Lyon
+26;FR270559593408;72.0;52;0;Conversion;Leo Berdeu;Lyon
+26;FR270559593408;72.0;52;0;Substitute on;Andres Zafra Tarazona;Agen
+26;FR270559593408;72.0;52;0;Substitute off;Gauthier Maravat;Agen
+26;FR270559593408;73.0;52;0;Substitute on;Malino Vanai;Agen
+26;FR270559593408;73.0;52;0;Substitute off;Alex Burin;Agen
+26;FR270559593408;78.0;52;5;Try;Alexandre Odinga;Agen
+26;FR270559593408;79.0;52;7;Conversion;Christian Lacombe;Agen
+26;FR270559593408;84.0;24;7;End of second half;;
+26;FR270559593409;1.0;0;0;Start of first half;;
+26;FR270559593409;3.0;5;0;Try;Aminiasi Tuimaba;Pau
+26;FR270559593409;4.0;7;0;Conversion;Antoine Hastoy;Pau
+26;FR270559593409;9.0;7;3;Penalty goal;Handre Pollard;Montpellier Herault
+26;FR270559593409;11.0;12;3;Try;Tumua Manu;Pau
+26;FR270559593409;16.0;12;3;Yellow card;Tyler Duguid;Montpellier Herault
+26;FR270559593409;30.0;17;3;Try;Matthew Philip;Pau
+26;FR270559593409;31.0;19;3;Conversion;Antoine Hastoy;Pau
+26;FR270559593409;32.0;19;3;Substitute on;Anthony Bouthier;Montpellier Herault
+26;FR270559593409;32.0;19;3;Substitute off;Yvan Reilhac;Montpellier Herault
+26;FR270559593409;32.0;19;3;Substitute off;Tumua Manu;Pau
+26;FR270559593409;32.0;19;3;Substitute on;Julien Fumat;Pau
+26;FR270559593409;32.0;19;3;Substitute on;Jules Danglot;Montpellier Herault
+26;FR270559593409;32.0;19;3;Substitute off;Cobus Reinach;Montpellier Herault
+26;FR270559593409;37.0;22;3;Penalty goal;Antoine Hastoy;Pau
+26;FR270559593409;40.0;22;8;Try;Julien Tisseron;Montpellier Herault
+26;FR270559593409;40.0;22;10;Conversion;Handre Pollard;Montpellier Herault
+26;FR270559593409;41.0;22;10;End of first half;;
+26;FR270559593409;40.0;22;10;Start of second half;;
+26;FR270559593409;40.0;22;10;Substitute on;Tumua Manu;Pau
+26;FR270559593409;40.0;22;10;Substitute off;Alexandre Dumoulin;Pau
+26;FR270559593409;41.0;22;10;Substitute on;Baptiste Pesenti;Pau
+26;FR270559593409;41.0;22;10;Substitute off;Matthew Philip;Pau
+26;FR270559593409;41.0;22;10;Substitute off;Jules Danglot;Montpellier Herault
+26;FR270559593409;41.0;22;10;Substitute on;Cobus Reinach;Montpellier Herault
+26;FR270559593409;44.0;22;13;Penalty goal;Handre Pollard;Montpellier Herault
+26;FR270559593409;48.0;27;13;Try;Julien Fumat;Pau
+26;FR270559593409;49.0;27;13;Substitute on;Enzo Forletta;Montpellier Herault
+26;FR270559593409;49.0;27;13;Substitute off;Gregory Fichten;Montpellier Herault
+26;FR270559593409;49.0;27;13;Substitute off;Youri Delhommel;Montpellier Herault
+26;FR270559593409;49.0;27;13;Substitute on;Guilhem Guirado;Montpellier Herault
+26;FR270559593409;49.0;27;13;Substitute off;Titi Lamositele;Montpellier Herault
+26;FR270559593409;49.0;27;13;Substitute on;Mohamed Haouas;Montpellier Herault
+26;FR270559593409;49.0;27;13;Substitute on;Antoine Guillamon;Montpellier Herault
+26;FR270559593409;49.0;27;13;Substitute off;Gigi Leshkasheli;Montpellier Herault
+26;FR270559593409;53.0;27;18;Try;Cobus Reinach;Montpellier Herault
+26;FR270559593409;54.0;27;20;Conversion;Handre Pollard;Montpellier Herault
+26;FR270559593409;54.0;27;20;Yellow card;Giovanni Habel-Kueffner;Pau
+26;FR270559593409;54.0;27;20;Substitute off;Thibault Daubagna;Pau
+26;FR270559593409;54.0;27;20;Substitute on;Clovis Le bail;Pau
+26;FR270559593409;58.0;27;25;Try;Guilhem Guirado;Montpellier Herault
+26;FR270559593409;60.0;27;25;Substitute on;Matthew Philip;Pau
+26;FR270559593409;60.0;27;25;Substitute off;Fabrice Metz;Pau
+26;FR270559593409;62.0;27;25;Substitute off;Lourens Adriaanse;Pau
+26;FR270559593409;62.0;27;25;Substitute on;Nicolas Corato;Pau
+26;FR270559593409;64.0;27;25;Substitute on;Alex Lozowski;Montpellier Herault
+26;FR270559593409;64.0;27;25;Substitute off;Handre Pollard;Montpellier Herault
+26;FR270559593409;64.0;27;25;Substitute off;Lekima Tagitagivalu;Pau
+26;FR270559593409;64.0;27;25;Substitute on;Daniel Ramsay;Pau
+26;FR270559593409;66.0;32;25;Try;Aminiasi Tuimaba;Pau
+26;FR270559593409;67.0;34;25;Conversion;Antoine Hastoy;Pau
+26;FR270559593409;67.0;34;25;Yellow card;Mohamed Haouas;Montpellier Herault
+26;FR270559593409;67.0;34;25;Substitute off;Cobus Reinach;Montpellier Herault
+26;FR270559593409;67.0;34;25;Substitute on;Jules Danglot;Montpellier Herault
+26;FR270559593409;67.0;34;25;Substitute off;Siegfried Fisi'ihoi;Pau
+26;FR270559593409;67.0;34;25;Substitute on;Maks van Dyk;Pau
+26;FR270559593409;68.0;34;25;Yellow card;Jale Vatubua;Pau
+26;FR270559593409;70.0;34;25;Substitute off;Tyler Duguid;Montpellier Herault
+26;FR270559593409;70.0;34;25;Substitute on;Titi Lamositele;Montpellier Herault
+26;FR270559593409;70.0;34;25;Substitute on;Youri Delhommel;Montpellier Herault
+26;FR270559593409;70.0;34;25;Substitute off;Caleb Timu;Montpellier Herault
+26;FR270559593409;77.0;34;25;Substitute off;Titi Lamositele;Montpellier Herault
+26;FR270559593409;77.0;34;25;Substitute on;Tyler Duguid;Montpellier Herault
+26;FR270559593409;82.0;39;25;Try;Matthew Philip;Pau
+26;FR270559593409;82.0;39;25;Conversion;Antoine Hastoy;Pau
+26;FR270559593409;82.0;39;25;End of second half;;
+26;FR270559593410;1.0;0;0;Start of first half;;
+26;FR270559593410;3.0;5;0;Try;Teddy Baubigny;Racing 92
+26;FR270559593410;4.0;7;0;Conversion;Finn Russell;Racing 92
+26;FR270559593410;15.0;12;0;Try;Teddy Baubigny;Racing 92
+26;FR270559593410;16.0;14;0;Conversion;Finn Russell;Racing 92
+26;FR270559593410;21.0;19;0;Try;Nolann Le Garrec;Racing 92
+26;FR270559593410;23.0;21;0;Conversion;Finn Russell;Racing 92
+26;FR270559593410;26.0;21;0;Substitute on;Kevin Le Guen;Racing 92
+26;FR270559593410;26.0;21;0;Substitute off;Teddy Baubigny;Racing 92
+26;FR270559593410;26.0;21;0;Substitute off;Baptiste Chouzenoux;Racing 92
+26;FR270559593410;26.0;21;0;Substitute on;Boris Palu;Racing 92
+26;FR270559593410;31.0;21;5;Try;Mesake Doge;Brive
+26;FR270559593410;34.0;26;5;Try;Teddy Thomas;Racing 92
+26;FR270559593410;41.0;26;5;End of first half;;
+26;FR270559593410;40.0;26;5;Start of second half;;
+26;FR270559593410;45.0;31;5;Try;Donovan Taofifenua;Racing 92
+26;FR270559593410;46.0;31;5;Substitute on;Hassane Kolingar;Racing 92
+26;FR270559593410;46.0;31;5;Substitute off;Eddy Ben Arous;Racing 92
+26;FR270559593410;47.0;31;5;Substitute off;Georges-Henri Colombe;Racing 92
+26;FR270559593410;47.0;31;5;Substitute on;Cedate Gomes Sa;Racing 92
+26;FR270559593410;50.0;38;5;Penalty try;;
+26;FR270559593410;50.0;38;5;Yellow card;Vano Karkadze;Brive
+26;FR270559593410;50.0;38;5;Substitute off;Virimi Vakatawa;Racing 92
+26;FR270559593410;50.0;38;5;Substitute on;Francois Trinh-Duc;Racing 92
+26;FR270559593410;50.0;38;5;Substitute on;Cody Thomas;Brive
+26;FR270559593410;50.0;38;5;Substitute off;Simon-Pierre Chauvac;Brive
+26;FR270559593410;50.0;38;5;Substitute off;Mesake Doge;Brive
+26;FR270559593410;50.0;38;5;Substitute on;Luka Japaridze;Brive
+26;FR270559593410;51.0;38;5;Substitute off;Dominic Bird;Racing 92
+26;FR270559593410;51.0;38;5;Substitute on;Donnacha Ryan;Racing 92
+26;FR270559593410;52.0;38;5;Substitute on;Florian Dufour;Brive
+26;FR270559593410;52.0;38;5;Substitute off;Irakli Tskhadadze;Brive
+26;FR270559593410;52.0;38;5;Substitute off;Hayden Thompson-Stringer;Brive
+26;FR270559593410;52.0;38;5;Substitute on;Daniel Brennan;Brive
+26;FR270559593410;55.0;38;5;Substitute on;Louis Dupichot;Racing 92
+26;FR270559593410;55.0;38;5;Substitute off;Kurtley Beale;Racing 92
+26;FR270559593410;55.0;38;5;Substitute on;Sevanaia Galala;Brive
+26;FR270559593410;55.0;38;5;Substitute off;Nico Lee;Brive
+26;FR270559593410;55.0;38;5;Substitute on;Setariki Tuicuvu;Brive
+26;FR270559593410;55.0;38;5;Substitute off;Eneriko Buliruarua;Brive
+26;FR270559593410;61.0;38;5;Yellow card;Guillaume Galletier;Brive
+26;FR270559593410;61.0;43;5;Try;Yoan Tanga Mangene;Racing 92
+26;FR270559593410;62.0;43;5;Substitute off;Vano Karkadze;Brive
+26;FR270559593410;62.0;43;5;Substitute on;Peniami Narisia;Brive
+26;FR270559593410;62.0;43;5;Substitute on;Julien Blanc;Brive
+26;FR270559593410;62.0;43;5;Substitute off;Tedo Abzhandadze;Brive
+26;FR270559593410;62.0;45;5;Conversion;Finn Russell;Racing 92
+26;FR270559593410;62.0;45;5;Substitute off;Finn Russell;Racing 92
+26;FR270559593410;62.0;45;5;Substitute on;Antoine Gibert;Racing 92
+26;FR270559593410;66.0;45;5;Substitute on;Dominic Bird;Racing 92
+26;FR270559593410;66.0;45;5;Substitute off;Bernard le Roux;Racing 92
+26;FR270559593410;69.0;45;10;Try;Setariki Tuicuvu;Brive
+26;FR270559593410;70.0;45;12;Conversion;Julien Blanc;Brive
+26;FR270559593410;70.0;45;12;Substitute off;Retief Marais;Brive
+26;FR270559593410;70.0;45;12;Substitute on;Hayden Thompson-Stringer;Brive
+26;FR270559593410;73.0;50;12;Try;Antonie Claassen;Racing 92
+26;FR270559593410;75.0;52;12;Conversion;Antoine Gibert;Racing 92
+26;FR270559593410;75.0;52;12;Substitute on;Virimi Vakatawa;Racing 92
+26;FR270559593410;75.0;52;12;Substitute off;Gael Fickou;Racing 92
+26;FR270559593410;75.0;52;12;Substitute on;Tedo Abzhandadze;Brive
+26;FR270559593410;75.0;52;12;Substitute off;David Delarue;Brive
+26;FR270559593410;82.0;55;12;End of second half;;
+26;FR270559593410;81.0;55;12;Penalty goal;Antonie Claassen;Racing 92
+26;FR270559593411;1.0;0;0;Start of first half;;
+26;FR270559593411;12.0;0;3;Penalty goal;Thomas Ramos;Stade Toulousain
+26;FR270559593411;28.0;5;3;Try;Ulupano Seuteni;Bordeaux Begles
+26;FR270559593411;29.0;7;3;Conversion;Ulupano Seuteni;Bordeaux Begles
+26;FR270559593411;32.0;7;8;Try;Emmanuel Meafou;Stade Toulousain
+26;FR270559593411;34.0;7;10;Conversion;Thomas Ramos;Stade Toulousain
+26;FR270559593411;37.0;7;13;Penalty goal;Thomas Ramos;Stade Toulousain
+26;FR270559593411;42.0;7;13;End of first half;;
+26;FR270559593411;40.0;7;13;Start of second half;;
+26;FR270559593411;40.0;7;13;Substitute off;Joseph Dweba;Bordeaux Begles
+26;FR270559593411;40.0;7;13;Substitute on;Clément Maynadier;Bordeaux Begles
+26;FR270559593411;41.0;7;13;Substitute off;Jefferson Poirot;Bordeaux Begles
+26;FR270559593411;41.0;7;13;Substitute on;Thierry Paiva;Bordeaux Begles
+26;FR270559593411;41.0;7;13;Substitute on;Ben Tameifuna;Bordeaux Begles
+26;FR270559593411;41.0;7;13;Substitute off;Vadim Cobilas;Bordeaux Begles
+26;FR270559593411;41.0;7;13;Substitute off;David Ainu'u;Stade Toulousain
+26;FR270559593411;41.0;7;13;Substitute on;Charlie Faumuina;Stade Toulousain
+26;FR270559593411;41.0;7;13;Substitute off;Emmanuel Meafou;Stade Toulousain
+26;FR270559593411;41.0;7;13;Substitute on;Jerome Kaino;Stade Toulousain
+26;FR270559593411;41.0;7;13;Substitute on;Kane Douglas;Bordeaux Begles
+26;FR270559593411;41.0;7;13;Substitute off;Thomas Jolmes;Bordeaux Begles
+26;FR270559593411;46.0;10;13;Penalty goal;Ulupano Seuteni;Bordeaux Begles
+26;FR270559593411;50.0;10;13;Yellow card;Cyril Cazeaux;Bordeaux Begles
+26;FR270559593411;50.0;10;16;Penalty goal;Thomas Ramos;Stade Toulousain
+26;FR270559593411;55.0;10;16;Substitute off;Rodrigue Neti;Stade Toulousain
+26;FR270559593411;55.0;10;16;Substitute on;Cyril Baille;Stade Toulousain
+26;FR270559593411;55.0;10;16;Substitute off;Romain Ntamack;Stade Toulousain
+26;FR270559593411;55.0;10;16;Substitute on;Lucas Tauzin;Stade Toulousain
+26;FR270559593411;55.0;10;16;Substitute off;Ulupano Seuteni;Bordeaux Begles
+26;FR270559593411;55.0;10;16;Substitute on;Matthieu Jalibert;Bordeaux Begles
+26;FR270559593411;55.0;10;16;Substitute off;Maxime Lucu;Bordeaux Begles
+26;FR270559593411;55.0;10;16;Substitute on;Yann Lesgourgues;Bordeaux Begles
+26;FR270559593411;58.0;10;16;Substitute on;Jefferson Poirot;Bordeaux Begles
+26;FR270559593411;58.0;10;16;Substitute off;Thierry Paiva;Bordeaux Begles
+26;FR270559593411;59.0;10;16;Substitute on;Guillaume Marchand;Stade Toulousain
+26;FR270559593411;59.0;10;16;Substitute off;Julien Marchand;Stade Toulousain
+26;FR270559593411;63.0;10;16;Substitute off;Guido Petti Pagadizabal;Bordeaux Begles
+26;FR270559593411;63.0;10;16;Substitute on;Louis Picamoles;Bordeaux Begles
+26;FR270559593411;67.0;10;16;Substitute on;Jean-Baptiste Dubie;Bordeaux Begles
+26;FR270559593411;67.0;10;16;Substitute off;Pablo Uberti;Bordeaux Begles
+26;FR270559593411;68.0;10;16;Substitute on;Selevasio Tolofua;Stade Toulousain
+26;FR270559593411;68.0;10;16;Substitute off;Rynhardt Elstadt;Stade Toulousain
+26;FR270559593411;70.0;10;16;Substitute on;Alexi Bales;Stade Toulousain
+26;FR270559593411;70.0;10;16;Substitute off;Thomas Ramos;Stade Toulousain
+26;FR270559593411;70.0;10;16;Substitute on;Ulupano Seuteni;Bordeaux Begles
+26;FR270559593411;70.0;10;16;Substitute off;Remi Lamerat;Bordeaux Begles
+26;FR270559593411;70.0;10;16;Substitute on;Juan Cruz Mallia;Stade Toulousain
+26;FR270559593411;70.0;10;16;Substitute off;Matthis Lebel;Stade Toulousain
+26;FR270559593411;77.0;10;16;Substitute off;Charlie Faumuina;Stade Toulousain
+26;FR270559593411;77.0;10;16;Substitute on;David Ainu'u;Stade Toulousain
+26;FR270559593411;80.0;10;21;Try;Lucas Tauzin;Stade Toulousain
+26;FR270559593411;82.0;7;21;End of second half;;
+26;FR270559593405;1.0;0;0;Start of first half;;
+26;FR270559593405;6.0;3;0;Penalty goal;Gaetan Germain;Bayonne
+26;FR270559593405;7.0;3;3;Penalty goal;Joris Segonds;Stade Francais Paris
+26;FR270559593405;12.0;6;3;Penalty goal;Gaetan Germain;Bayonne
+26;FR270559593405;15.0;6;3;Substitute off;Michael Ruru;Bayonne
+26;FR270559593405;15.0;6;3;Substitute on;Guillaume Rouet Piffard;Bayonne
+26;FR270559593405;34.0;6;3;Drop Goal Missed;;
+26;FR270559593405;35.0;9;3;Penalty goal;Gaetan Germain;Bayonne
+26;FR270559593405;43.0;9;3;End of first half;;
+26;FR270559593405;40.0;9;3;Start of second half;;
+26;FR270559593405;42.0;9;3;Substitute off;Yoann Maestri;Stade Francais Paris
+26;FR270559593405;42.0;9;3;Substitute on;Pierre-Henri Azagoh;Stade Francais Paris
+26;FR270559593405;44.0;9;6;Penalty goal;Joris Segonds;Stade Francais Paris
+26;FR270559593405;44.0;9;6;Substitute on;Konstantine Mikautadze;Bayonne
+26;FR270559593405;44.0;9;6;Substitute off;Guillaume Ducat;Bayonne
+26;FR270559593405;51.0;9;9;Penalty goal;Joris Segonds;Stade Francais Paris
+26;FR270559593405;51.0;9;9;Substitute on;Jean Monribot;Bayonne
+26;FR270559593405;51.0;9;9;Substitute off;Asier Usarraga;Bayonne
+26;FR270559593405;51.0;9;9;Substitute off;Arnaud Duputs;Bayonne
+26;FR270559593405;51.0;9;9;Substitute on;Filimo Taofifenua;Bayonne
+26;FR270559593405;51.0;9;9;Substitute off;Moses Alo-Emile;Stade Francais Paris
+26;FR270559593405;51.0;9;9;Substitute on;Vasil Kakovin;Stade Francais Paris
+26;FR270559593405;56.0;9;9;Substitute off;James Hall;Stade Francais Paris
+26;FR270559593405;56.0;9;9;Substitute on;Arthur Coville;Stade Francais Paris
+26;FR270559593405;58.0;9;9;Substitute off;Pablo Matera;Stade Francais Paris
+26;FR270559593405;58.0;9;9;Substitute on;Loic Godener;Stade Francais Paris
+26;FR270559593405;63.0;9;9;Substitute off;John Ulugia;Bayonne
+26;FR270559593405;63.0;9;9;Substitute on;Torsten van Jaarsveld;Bayonne
+26;FR270559593405;63.0;9;9;Substitute off;Manuel Ordas;Bayonne
+26;FR270559593405;63.0;9;9;Substitute on;Yan Lestrade;Bayonne
+26;FR270559593405;65.0;9;9;Substitute off;Antoine Burban;Stade Francais Paris
+26;FR270559593405;65.0;9;9;Substitute on;Pablo Matera;Stade Francais Paris
+26;FR270559593405;65.0;9;9;Substitute on;Luc Mousset;Bayonne
+26;FR270559593405;65.0;9;9;Substitute off;Sam Nixon;Bayonne
+26;FR270559593405;67.0;9;9;Substitute off;Afaesetiti Amosa;Bayonne
+26;FR270559593405;67.0;9;9;Substitute on;Asier Usarraga;Bayonne
+26;FR270559593405;68.0;9;9;Substitute on;Mathieu de Giovanni;Stade Francais Paris
+26;FR270559593405;68.0;9;9;Substitute off;Paul Gabrillagues;Stade Francais Paris
+26;FR270559593405;72.0;9;9;Substitute on;Manuel Ordas;Bayonne
+26;FR270559593405;72.0;9;9;Substitute off;Theo Costosseque;Bayonne
+26;FR270559593405;72.0;9;9;Substitute on;Swan Cormenier;Bayonne
+26;FR270559593405;72.0;9;9;Substitute off;Ugo Boniface;Bayonne
+26;FR270559593405;74.0;9;12;Penalty goal;Joris Segonds;Stade Francais Paris
+26;FR270559593405;75.0;9;12;Substitute off;Luc Mousset;Bayonne
+26;FR270559593405;75.0;9;12;Substitute on;Sam Nixon;Bayonne
+26;FR270559593405;78.0;9;12;Substitute on;Lucas da Silva;Stade Francais Paris
+26;FR270559593405;78.0;9;12;Substitute off;Tolu Latu;Stade Francais Paris
+26;FR270559593405;79.0;9;12;Substitute on;Paul Gabrillagues;Stade Francais Paris
+26;FR270559593405;79.0;9;12;Substitute off;Sekou Macalou;Stade Francais Paris
+26;FR270559593405;83.0;9;12;End of second half;;
+26;FR270559593406;1.0;0;0;Start of first half;;
+26;FR270559593406;2.0;0;5;Try;Louis Carbonel;Toulon
+26;FR270559593406;3.0;0;7;Conversion;Louis Carbonel;Toulon
+26;FR270559593406;15.0;0;7;Substitute off;Charles Ollivon;Toulon
+26;FR270559593406;15.0;0;7;Substitute on;Raphael Lakafia;Toulon
+26;FR270559593406;15.0;0;10;Penalty goal;Louis Carbonel;Toulon
+26;FR270559593406;21.0;0;15;Try;Eben Etzebeth;Toulon
+26;FR270559593406;23.0;0;17;Conversion;Louis Carbonel;Toulon
+26;FR270559593406;23.0;0;17;Substitute off;Tom Staniforth;Castres Olympique
+26;FR270559593406;23.0;0;17;Substitute on;Loic Jacquet;Castres Olympique
+26;FR270559593406;26.0;5;17;Try;Gaetan Barlot;Castres Olympique
+26;FR270559593406;26.0;7;17;Conversion;Benjamin Urdapilleta;Castres Olympique
+26;FR270559593406;33.0;7;17;Yellow card;Anthony Etrillard;Toulon
+26;FR270559593406;34.0;12;17;Try;Benjamin Urdapilleta;Castres Olympique
+26;FR270559593406;35.0;14;17;Conversion;Benjamin Urdapilleta;Castres Olympique
+26;FR270559593406;41.0;17;17;Penalty goal;Benjamin Urdapilleta;Castres Olympique
+26;FR270559593406;41.0;17;17;End of first half;;
+26;FR270559593406;40.0;17;17;Start of second half;;
+26;FR270559593406;40.0;17;17;Substitute off;Rory Kockott;Castres Olympique
+26;FR270559593406;40.0;17;17;Substitute on;Santiago Arata;Castres Olympique
+26;FR270559593406;45.0;22;17;Try;Thomas Combezou;Castres Olympique
+26;FR270559593406;46.0;24;17;Conversion;Benjamin Urdapilleta;Castres Olympique
+26;FR270559593406;49.0;29;17;Try;Benjamin Urdapilleta;Castres Olympique
+26;FR270559593406;50.0;29;17;Substitute off;Facundo Isa;Toulon
+26;FR270559593406;50.0;29;17;Substitute on;Julien Ory;Toulon
+26;FR270559593406;50.0;31;17;Conversion;Benjamin Urdapilleta;Castres Olympique
+26;FR270559593406;52.0;31;17;Substitute on;Baptiste Delaporte;Castres Olympique
+26;FR270559593406;52.0;31;17;Substitute off;Mathieu Babillot;Castres Olympique
+26;FR270559593406;53.0;31;22;Try;Romain Taofifenua;Toulon
+26;FR270559593406;54.0;31;24;Conversion;Louis Carbonel;Toulon
+26;FR270559593406;56.0;34;24;Penalty goal;Benjamin Urdapilleta;Castres Olympique
+26;FR270559593406;57.0;34;24;Substitute on;Sebastien Taofifenua;Toulon
+26;FR270559593406;57.0;34;24;Substitute off;Jean-Baptiste Gros;Toulon
+26;FR270559593406;57.0;34;24;Substitute off;Romain Taofifenua;Toulon
+26;FR270559593406;57.0;34;24;Substitute on;Adrien Warion;Toulon
+26;FR270559593406;57.0;34;24;Substitute on;Anthony Belleau;Toulon
+26;FR270559593406;57.0;34;24;Substitute off;Isaia Toeava;Toulon
+26;FR270559593406;61.0;34;24;Substitute off;Julien Ory;Toulon
+26;FR270559593406;61.0;34;24;Substitute on;Facundo Isa;Toulon
+26;FR270559593406;61.0;34;24;Substitute on;Maama Vaipulu;Castres Olympique
+26;FR270559593406;61.0;34;24;Substitute off;Tyler Ardron;Castres Olympique
+26;FR270559593406;61.0;34;24;Substitute off;Wilfrid Hounkpatin;Castres Olympique
+26;FR270559593406;61.0;34;24;Substitute on;Levan Chilachava;Castres Olympique
+26;FR270559593406;62.0;34;24;Yellow card;Maama Vaipulu;Castres Olympique
+26;FR270559593406;67.0;34;24;Substitute on;Julius Nostadt;Castres Olympique
+26;FR270559593406;67.0;34;24;Substitute off;Antoine Tichit;Castres Olympique
+26;FR270559593406;67.0;34;24;Substitute off;Anthony Etrillard;Toulon
+26;FR270559593406;67.0;34;24;Substitute on;Bastien Soury;Toulon
+26;FR270559593406;67.0;34;24;Substitute off;Beka Gigashvili;Toulon
+26;FR270559593406;67.0;34;24;Substitute on;Florian Fresia;Toulon
+26;FR270559593406;71.0;34;24;Substitute on;Tyler Ardron;Castres Olympique
+26;FR270559593406;71.0;34;24;Substitute off;Florent Vanverberghe;Castres Olympique
+26;FR270559593406;71.0;34;24;Substitute off;Gaetan Barlot;Castres Olympique
+26;FR270559593406;71.0;34;24;Substitute on;Paula Ngauamo;Castres Olympique
+26;FR270559593406;71.0;34;24;Substitute off;Eben Etzebeth;Toulon
+26;FR270559593406;71.0;34;24;Substitute on;Romain Taofifenua;Toulon
+26;FR270559593406;74.0;39;24;Try;Geoffrey Palis;Castres Olympique
+26;FR270559593406;75.0;41;24;Conversion;Benjamin Urdapilleta;Castres Olympique
+26;FR270559593406;76.0;41;24;Substitute on;Adrea Cocagi;Castres Olympique
+26;FR270559593406;76.0;41;24;Substitute off;Vilimoni Botitu;Castres Olympique
+26;FR270559593406;80.0;46;24;Try;Filipo Nakosi;Castres Olympique
+26;FR270559593406;82.0;46;24;End of second half;;
+26;FR270559593407;1.0;0;0;Start of first half;;
+26;FR270559593407;2.0;3;0;Penalty goal;Morgan Parra;Clermont Auvergne
+26;FR270559593407;11.0;3;5;Try;Dillyn Leyds;La Rochelle
+26;FR270559593407;12.0;3;7;Conversion;Jules Le Bail;La Rochelle
+26;FR270559593407;20.0;3;7;Substitute off;Reda Wardi;La Rochelle
+26;FR270559593407;20.0;3;7;Substitute on;Dany Priso;La Rochelle
+26;FR270559593407;20.0;6;7;Penalty goal;Morgan Parra;Clermont Auvergne
+26;FR270559593407;25.0;9;7;Penalty goal;Morgan Parra;Clermont Auvergne
+26;FR270559593407;28.0;9;10;Penalty goal;Jules Le Bail;La Rochelle
+26;FR270559593407;30.0;12;10;Penalty goal;Morgan Parra;Clermont Auvergne
+26;FR270559593407;34.0;15;10;Penalty goal;Morgan Parra;Clermont Auvergne
+26;FR270559593407;41.0;15;10;End of first half;;
+26;FR270559593407;40.0;15;10;Start of second half;;
+26;FR270559593407;51.0;15;10;Substitute off;Facundo Bosch;La Rochelle
+26;FR270559593407;51.0;15;10;Substitute on;Pierre Bourgarit;La Rochelle
+26;FR270559593407;51.0;15;10;Substitute off;Remi Bourdeau;La Rochelle
+26;FR270559593407;51.0;15;10;Substitute on;Gregory Alldritt;La Rochelle
+26;FR270559593407;53.0;15;10;Substitute off;Sipili Falatea;Clermont Auvergne
+26;FR270559593407;53.0;15;10;Substitute on;Cristian Ojovan;Clermont Auvergne
+26;FR270559593407;53.0;20;10;Try;George Moala;Clermont Auvergne
+26;FR270559593407;54.0;22;10;Conversion;Morgan Parra;Clermont Auvergne
+26;FR270559593407;55.0;22;10;Substitute on;Darren Sweetnam;La Rochelle
+26;FR270559593407;55.0;22;10;Substitute off;Tawera Kerr-Barlow;La Rochelle
+26;FR270559593407;57.0;22;15;Try;Gregory Alldritt;La Rochelle
+26;FR270559593407;58.0;22;17;Conversion;Jules Le Bail;La Rochelle
+26;FR270559593407;58.0;22;17;Substitute on;Jules Favre;La Rochelle
+26;FR270559593407;58.0;22;17;Substitute off;Geoffrey Doumayrou;La Rochelle
+26;FR270559593407;58.0;22;17;Substitute off;Apisai Naqalevu;Clermont Auvergne
+26;FR270559593407;58.0;22;17;Substitute on;Tim Nanai-Williams;Clermont Auvergne
+26;FR270559593407;61.0;22;17;Substitute off;Uini Atonio;La Rochelle
+26;FR270559593407;61.0;22;17;Substitute on;Arthur Joly;La Rochelle
+26;FR270559593407;65.0;25;17;Penalty goal;Morgan Parra;Clermont Auvergne
+26;FR270559593407;65.0;25;17;Substitute on;Sebastien Bezy;Clermont Auvergne
+26;FR270559593407;65.0;25;17;Substitute off;Morgan Parra;Clermont Auvergne
+26;FR270559593407;65.0;25;17;Substitute off;Peni Ravai;Clermont Auvergne
+26;FR270559593407;65.0;25;17;Substitute on;Daniel Bibi Biziwu;Clermont Auvergne
+26;FR270559593407;65.0;25;17;Substitute off;Thomas Lavault;La Rochelle
+26;FR270559593407;65.0;25;17;Substitute on;Mathieu Tanguy;La Rochelle
+26;FR270559593407;65.0;25;17;Substitute off;Kevin Gourdon;La Rochelle
+26;FR270559593407;65.0;25;17;Substitute on;Zeno Kieft;La Rochelle
+26;FR270559593407;70.0;25;17;Substitute off;Alexandre Fischer;Clermont Auvergne
+26;FR270559593407;70.0;25;17;Substitute on;Thibaud Lanen;Clermont Auvergne
+26;FR270559593407;70.0;25;17;Substitute on;Miles Amatosero;Clermont Auvergne
+26;FR270559593407;70.0;25;17;Substitute off;Paul Jedrasiak;Clermont Auvergne
+26;FR270559593407;79.0;25;17;Substitute on;Facundo Bosch;La Rochelle
+26;FR270559593407;79.0;25;17;Substitute off;Pierre Bourgarit;La Rochelle
+26;FR270559593407;79.0;25;20;Penalty goal;Jules Le Bail;La Rochelle
+26;FR270559593407;79.0;25;20;Substitute on;Peter Betham;Clermont Auvergne
+26;FR270559593407;79.0;25;20;Substitute off;Alivereti Raka;Clermont Auvergne
+26;FR270559593407;79.0;25;20;Substitute off;Will Skelton;La Rochelle
+26;FR270559593407;79.0;25;20;Substitute on;Thomas Lavault;La Rochelle
+26;FR270559593407;81.0;25;20;End of second half;;
+26;FR270559593408;1.0;0;0;Start of first half;;
+26;FR270559593408;19.0;5;0;Try;Josua Tuisova;Lyon
+26;FR270559593408;21.0;7;0;Conversion;Jonathan Wisniewski;Lyon
+26;FR270559593408;26.0;12;0;Try;Temo Mayanavanua;Lyon
+26;FR270559593408;28.0;14;0;Conversion;Jonathan Wisniewski;Lyon
+26;FR270559593408;38.0;19;0;Try;Demba Bamba;Lyon
+26;FR270559593408;46.0;19;0;Substitute off;Loris Zarantonello;Agen
+26;FR270559593408;46.0;19;0;Substitute on;Gael Doms;Agen
+26;FR270559593408;44.0;24;0;Try;Dylan Cretin;Lyon
+26;FR270559593408;44.0;24;0;End of first half;;
+26;FR270559593408;40.0;24;0;Start of second half;;
+26;FR270559593408;42.0;29;0;Try;Baptiste Couilloud;Lyon
+26;FR270559593408;43.0;31;0;Conversion;Jonathan Wisniewski;Lyon
+26;FR270559593408;46.0;31;0;Substitute off;Yoan Cottin;Agen
+26;FR270559593408;46.0;31;0;Substitute on;Dorian Bellot;Agen
+26;FR270559593408;46.0;31;0;Substitute on;Killian Geraci;Lyon
+26;FR270559593408;46.0;31;0;Substitute off;Felix Lambey;Lyon
+26;FR270559593408;46.0;31;0;Substitute on;Hamza Kaabeche;Lyon
+26;FR270559593408;46.0;31;0;Substitute off;Vivien Devisme;Lyon
+26;FR270559593408;50.0;31;0;Substitute on;Ethan Dumortier;Lyon
+26;FR270559593408;50.0;31;0;Substitute off;Josua Tuisova;Lyon
+26;FR270559593408;51.0;36;0;Try;Ethan Dumortier;Lyon
+26;FR270559593408;52.0;38;0;Conversion;Jonathan Wisniewski;Lyon
+26;FR270559593408;53.0;38;0;Substitute off;Baptiste Couilloud;Lyon
+26;FR270559593408;53.0;38;0;Substitute on;Jonathan Pelissie;Lyon
+26;FR270559593408;53.0;38;0;Substitute on;Mickael Ivaldi;Lyon
+26;FR270559593408;53.0;38;0;Substitute off;Joe Taufete'e;Lyon
+26;FR270559593408;53.0;38;0;Substitute off;Killian Geraci;Lyon
+26;FR270559593408;53.0;38;0;Substitute on;Felix Lambey;Lyon
+26;FR270559593408;53.0;38;0;Substitute on;Hans Lombard-Buret;Agen
+26;FR270559593408;53.0;38;0;Substitute off;Gael Doms;Agen
+26;FR270559593408;53.0;38;0;Substitute on;Hugo Ndiaye;Lyon
+26;FR270559593408;53.0;38;0;Substitute off;Demba Bamba;Lyon
+26;FR270559593408;53.0;38;0;Substitute off;Jeremy Jordaan;Agen
+26;FR270559593408;53.0;38;0;Substitute on;Timilai Rokoduru;Agen
+26;FR270559593408;53.0;38;0;Substitute on;Mickael Guillard;Lyon
+26;FR270559593408;53.0;38;0;Substitute off;Colby Fainga'a;Lyon
+26;FR270559593408;56.0;38;0;Substitute off;Malino Vanai;Agen
+26;FR270559593408;56.0;38;0;Substitute on;Martin Augeix;Agen
+26;FR270559593408;56.0;38;0;Substitute off;Andres Zafra Tarazona;Agen
+26;FR270559593408;56.0;38;0;Substitute on;Sacha Yahi;Agen
+26;FR270559593408;59.0;43;0;Try;Jonathan Wisniewski;Lyon
+26;FR270559593408;59.0;45;0;Conversion;Jonathan Wisniewski;Lyon
+26;FR270559593408;60.0;45;0;Substitute off;Jonathan Wisniewski;Lyon
+26;FR270559593408;60.0;45;0;Substitute on;Alexandre Tchaptchet;Lyon
+26;FR270559593408;60.0;45;0;Substitute off;Felix Lambey;Lyon
+26;FR270559593408;60.0;45;0;Substitute on;Killian Geraci;Lyon
+26;FR270559593408;62.0;45;0;Substitute on;Raphael Lagarde;Agen
+26;FR270559593408;62.0;45;0;Substitute off;Nathan Decron;Agen
+26;FR270559593408;62.0;45;0;Substitute on;Loris Tolot;Agen
+26;FR270559593408;62.0;45;0;Substitute off;Julien Jane;Agen
+26;FR270559593408;70.0;50;0;Try;Hugo Ndiaye;Lyon
+26;FR270559593408;72.0;52;0;Conversion;Leo Berdeu;Lyon
+26;FR270559593408;72.0;52;0;Substitute on;Andres Zafra Tarazona;Agen
+26;FR270559593408;72.0;52;0;Substitute off;Gauthier Maravat;Agen
+26;FR270559593408;73.0;52;0;Substitute on;Malino Vanai;Agen
+26;FR270559593408;73.0;52;0;Substitute off;Alex Burin;Agen
+26;FR270559593408;78.0;52;5;Try;Alexandre Odinga;Agen
+26;FR270559593408;79.0;52;7;Conversion;Christian Lacombe;Agen
+26;FR270559593408;84.0;24;7;End of second half;;
+26;FR270559593409;1.0;0;0;Start of first half;;
+26;FR270559593409;3.0;5;0;Try;Aminiasi Tuimaba;Pau
+26;FR270559593409;4.0;7;0;Conversion;Antoine Hastoy;Pau
+26;FR270559593409;9.0;7;3;Penalty goal;Handre Pollard;Montpellier Herault
+26;FR270559593409;11.0;12;3;Try;Tumua Manu;Pau
+26;FR270559593409;16.0;12;3;Yellow card;Tyler Duguid;Montpellier Herault
+26;FR270559593409;30.0;17;3;Try;Matthew Philip;Pau
+26;FR270559593409;31.0;19;3;Conversion;Antoine Hastoy;Pau
+26;FR270559593409;32.0;19;3;Substitute on;Anthony Bouthier;Montpellier Herault
+26;FR270559593409;32.0;19;3;Substitute off;Yvan Reilhac;Montpellier Herault
+26;FR270559593409;32.0;19;3;Substitute off;Tumua Manu;Pau
+26;FR270559593409;32.0;19;3;Substitute on;Julien Fumat;Pau
+26;FR270559593409;32.0;19;3;Substitute on;Jules Danglot;Montpellier Herault
+26;FR270559593409;32.0;19;3;Substitute off;Cobus Reinach;Montpellier Herault
+26;FR270559593409;37.0;22;3;Penalty goal;Antoine Hastoy;Pau
+26;FR270559593409;40.0;22;8;Try;Julien Tisseron;Montpellier Herault
+26;FR270559593409;40.0;22;10;Conversion;Handre Pollard;Montpellier Herault
+26;FR270559593409;41.0;22;10;End of first half;;
+26;FR270559593409;40.0;22;10;Start of second half;;
+26;FR270559593409;40.0;22;10;Substitute on;Tumua Manu;Pau
+26;FR270559593409;40.0;22;10;Substitute off;Alexandre Dumoulin;Pau
+26;FR270559593409;41.0;22;10;Substitute on;Baptiste Pesenti;Pau
+26;FR270559593409;41.0;22;10;Substitute off;Matthew Philip;Pau
+26;FR270559593409;41.0;22;10;Substitute off;Jules Danglot;Montpellier Herault
+26;FR270559593409;41.0;22;10;Substitute on;Cobus Reinach;Montpellier Herault
+26;FR270559593409;44.0;22;13;Penalty goal;Handre Pollard;Montpellier Herault
+26;FR270559593409;48.0;27;13;Try;Julien Fumat;Pau
+26;FR270559593409;49.0;27;13;Substitute on;Enzo Forletta;Montpellier Herault
+26;FR270559593409;49.0;27;13;Substitute off;Gregory Fichten;Montpellier Herault
+26;FR270559593409;49.0;27;13;Substitute off;Youri Delhommel;Montpellier Herault
+26;FR270559593409;49.0;27;13;Substitute on;Guilhem Guirado;Montpellier Herault
+26;FR270559593409;49.0;27;13;Substitute off;Titi Lamositele;Montpellier Herault
+26;FR270559593409;49.0;27;13;Substitute on;Mohamed Haouas;Montpellier Herault
+26;FR270559593409;49.0;27;13;Substitute on;Antoine Guillamon;Montpellier Herault
+26;FR270559593409;49.0;27;13;Substitute off;Gigi Leshkasheli;Montpellier Herault
+26;FR270559593409;53.0;27;18;Try;Cobus Reinach;Montpellier Herault
+26;FR270559593409;54.0;27;20;Conversion;Handre Pollard;Montpellier Herault
+26;FR270559593409;54.0;27;20;Yellow card;Giovanni Habel-Kueffner;Pau
+26;FR270559593409;54.0;27;20;Substitute off;Thibault Daubagna;Pau
+26;FR270559593409;54.0;27;20;Substitute on;Clovis Le bail;Pau
+26;FR270559593409;58.0;27;25;Try;Guilhem Guirado;Montpellier Herault
+26;FR270559593409;60.0;27;25;Substitute on;Matthew Philip;Pau
+26;FR270559593409;60.0;27;25;Substitute off;Fabrice Metz;Pau
+26;FR270559593409;62.0;27;25;Substitute off;Lourens Adriaanse;Pau
+26;FR270559593409;62.0;27;25;Substitute on;Nicolas Corato;Pau
+26;FR270559593409;64.0;27;25;Substitute on;Alex Lozowski;Montpellier Herault
+26;FR270559593409;64.0;27;25;Substitute off;Handre Pollard;Montpellier Herault
+26;FR270559593409;64.0;27;25;Substitute off;Lekima Tagitagivalu;Pau
+26;FR270559593409;64.0;27;25;Substitute on;Daniel Ramsay;Pau
+26;FR270559593409;66.0;32;25;Try;Aminiasi Tuimaba;Pau
+26;FR270559593409;67.0;34;25;Conversion;Antoine Hastoy;Pau
+26;FR270559593409;67.0;34;25;Yellow card;Mohamed Haouas;Montpellier Herault
+26;FR270559593409;67.0;34;25;Substitute off;Cobus Reinach;Montpellier Herault
+26;FR270559593409;67.0;34;25;Substitute on;Jules Danglot;Montpellier Herault
+26;FR270559593409;67.0;34;25;Substitute off;Siegfried Fisi'ihoi;Pau
+26;FR270559593409;67.0;34;25;Substitute on;Maks van Dyk;Pau
+26;FR270559593409;68.0;34;25;Yellow card;Jale Vatubua;Pau
+26;FR270559593409;70.0;34;25;Substitute off;Tyler Duguid;Montpellier Herault
+26;FR270559593409;70.0;34;25;Substitute on;Titi Lamositele;Montpellier Herault
+26;FR270559593409;70.0;34;25;Substitute on;Youri Delhommel;Montpellier Herault
+26;FR270559593409;70.0;34;25;Substitute off;Caleb Timu;Montpellier Herault
+26;FR270559593409;77.0;34;25;Substitute off;Titi Lamositele;Montpellier Herault
+26;FR270559593409;77.0;34;25;Substitute on;Tyler Duguid;Montpellier Herault
+26;FR270559593409;82.0;39;25;Try;Matthew Philip;Pau
+26;FR270559593409;82.0;39;25;Conversion;Antoine Hastoy;Pau
+26;FR270559593409;82.0;39;25;End of second half;;
+26;FR270559593410;1.0;0;0;Start of first half;;
+26;FR270559593410;3.0;5;0;Try;Teddy Baubigny;Racing 92
+26;FR270559593410;4.0;7;0;Conversion;Finn Russell;Racing 92
+26;FR270559593410;15.0;12;0;Try;Teddy Baubigny;Racing 92
+26;FR270559593410;16.0;14;0;Conversion;Finn Russell;Racing 92
+26;FR270559593410;21.0;19;0;Try;Nolann Le Garrec;Racing 92
+26;FR270559593410;23.0;21;0;Conversion;Finn Russell;Racing 92
+26;FR270559593410;26.0;21;0;Substitute on;Kevin Le Guen;Racing 92
+26;FR270559593410;26.0;21;0;Substitute off;Teddy Baubigny;Racing 92
+26;FR270559593410;26.0;21;0;Substitute off;Baptiste Chouzenoux;Racing 92
+26;FR270559593410;26.0;21;0;Substitute on;Boris Palu;Racing 92
+26;FR270559593410;31.0;21;5;Try;Mesake Doge;Brive
+26;FR270559593410;34.0;26;5;Try;Teddy Thomas;Racing 92
+26;FR270559593410;41.0;26;5;End of first half;;
+26;FR270559593410;40.0;26;5;Start of second half;;
+26;FR270559593410;45.0;31;5;Try;Donovan Taofifenua;Racing 92
+26;FR270559593410;46.0;31;5;Substitute on;Hassane Kolingar;Racing 92
+26;FR270559593410;46.0;31;5;Substitute off;Eddy Ben Arous;Racing 92
+26;FR270559593410;47.0;31;5;Substitute off;Georges-Henri Colombe;Racing 92
+26;FR270559593410;47.0;31;5;Substitute on;Cedate Gomes Sa;Racing 92
+26;FR270559593410;50.0;38;5;Penalty try;;
+26;FR270559593410;50.0;38;5;Yellow card;Vano Karkadze;Brive
+26;FR270559593410;50.0;38;5;Substitute off;Virimi Vakatawa;Racing 92
+26;FR270559593410;50.0;38;5;Substitute on;Francois Trinh-Duc;Racing 92
+26;FR270559593410;50.0;38;5;Substitute on;Cody Thomas;Brive
+26;FR270559593410;50.0;38;5;Substitute off;Simon-Pierre Chauvac;Brive
+26;FR270559593410;50.0;38;5;Substitute off;Mesake Doge;Brive
+26;FR270559593410;50.0;38;5;Substitute on;Luka Japaridze;Brive
+26;FR270559593410;51.0;38;5;Substitute off;Dominic Bird;Racing 92
+26;FR270559593410;51.0;38;5;Substitute on;Donnacha Ryan;Racing 92
+26;FR270559593410;52.0;38;5;Substitute on;Florian Dufour;Brive
+26;FR270559593410;52.0;38;5;Substitute off;Irakli Tskhadadze;Brive
+26;FR270559593410;52.0;38;5;Substitute off;Hayden Thompson-Stringer;Brive
+26;FR270559593410;52.0;38;5;Substitute on;Daniel Brennan;Brive
+26;FR270559593410;55.0;38;5;Substitute on;Louis Dupichot;Racing 92
+26;FR270559593410;55.0;38;5;Substitute off;Kurtley Beale;Racing 92
+26;FR270559593410;55.0;38;5;Substitute on;Sevanaia Galala;Brive
+26;FR270559593410;55.0;38;5;Substitute off;Nico Lee;Brive
+26;FR270559593410;55.0;38;5;Substitute on;Setariki Tuicuvu;Brive
+26;FR270559593410;55.0;38;5;Substitute off;Eneriko Buliruarua;Brive
+26;FR270559593410;61.0;38;5;Yellow card;Guillaume Galletier;Brive
+26;FR270559593410;61.0;43;5;Try;Yoan Tanga Mangene;Racing 92
+26;FR270559593410;62.0;43;5;Substitute off;Vano Karkadze;Brive
+26;FR270559593410;62.0;43;5;Substitute on;Peniami Narisia;Brive
+26;FR270559593410;62.0;43;5;Substitute on;Julien Blanc;Brive
+26;FR270559593410;62.0;43;5;Substitute off;Tedo Abzhandadze;Brive
+26;FR270559593410;62.0;45;5;Conversion;Finn Russell;Racing 92
+26;FR270559593410;62.0;45;5;Substitute off;Finn Russell;Racing 92
+26;FR270559593410;62.0;45;5;Substitute on;Antoine Gibert;Racing 92
+26;FR270559593410;66.0;45;5;Substitute on;Dominic Bird;Racing 92
+26;FR270559593410;66.0;45;5;Substitute off;Bernard le Roux;Racing 92
+26;FR270559593410;69.0;45;10;Try;Setariki Tuicuvu;Brive
+26;FR270559593410;70.0;45;12;Conversion;Julien Blanc;Brive
+26;FR270559593410;70.0;45;12;Substitute off;Retief Marais;Brive
+26;FR270559593410;70.0;45;12;Substitute on;Hayden Thompson-Stringer;Brive
+26;FR270559593410;73.0;50;12;Try;Antonie Claassen;Racing 92
+26;FR270559593410;75.0;52;12;Conversion;Antoine Gibert;Racing 92
+26;FR270559593410;75.0;52;12;Substitute on;Virimi Vakatawa;Racing 92
+26;FR270559593410;75.0;52;12;Substitute off;Gael Fickou;Racing 92
+26;FR270559593410;75.0;52;12;Substitute on;Tedo Abzhandadze;Brive
+26;FR270559593410;75.0;52;12;Substitute off;David Delarue;Brive
+26;FR270559593410;82.0;55;12;End of second half;;
+26;FR270559593410;81.0;55;12;Penalty goal;Antonie Claassen;Racing 92
+26;FR270559593411;1.0;0;0;Start of first half;;
+26;FR270559593411;12.0;0;3;Penalty goal;Thomas Ramos;Stade Toulousain
+26;FR270559593411;28.0;5;3;Try;Ulupano Seuteni;Bordeaux Begles
+26;FR270559593411;29.0;7;3;Conversion;Ulupano Seuteni;Bordeaux Begles
+26;FR270559593411;32.0;7;8;Try;Emmanuel Meafou;Stade Toulousain
+26;FR270559593411;34.0;7;10;Conversion;Thomas Ramos;Stade Toulousain
+26;FR270559593411;37.0;7;13;Penalty goal;Thomas Ramos;Stade Toulousain
+26;FR270559593411;42.0;7;13;End of first half;;
+26;FR270559593411;40.0;7;13;Start of second half;;
+26;FR270559593411;40.0;7;13;Substitute off;Joseph Dweba;Bordeaux Begles
+26;FR270559593411;40.0;7;13;Substitute on;Clément Maynadier;Bordeaux Begles
+26;FR270559593411;41.0;7;13;Substitute off;Jefferson Poirot;Bordeaux Begles
+26;FR270559593411;41.0;7;13;Substitute on;Thierry Paiva;Bordeaux Begles
+26;FR270559593411;41.0;7;13;Substitute on;Ben Tameifuna;Bordeaux Begles
+26;FR270559593411;41.0;7;13;Substitute off;Vadim Cobilas;Bordeaux Begles
+26;FR270559593411;41.0;7;13;Substitute off;David Ainu'u;Stade Toulousain
+26;FR270559593411;41.0;7;13;Substitute on;Charlie Faumuina;Stade Toulousain
+26;FR270559593411;41.0;7;13;Substitute off;Emmanuel Meafou;Stade Toulousain
+26;FR270559593411;41.0;7;13;Substitute on;Jerome Kaino;Stade Toulousain
+26;FR270559593411;41.0;7;13;Substitute on;Kane Douglas;Bordeaux Begles
+26;FR270559593411;41.0;7;13;Substitute off;Thomas Jolmes;Bordeaux Begles
+26;FR270559593411;46.0;10;13;Penalty goal;Ulupano Seuteni;Bordeaux Begles
+26;FR270559593411;50.0;10;13;Yellow card;Cyril Cazeaux;Bordeaux Begles
+26;FR270559593411;50.0;10;16;Penalty goal;Thomas Ramos;Stade Toulousain
+26;FR270559593411;55.0;10;16;Substitute off;Rodrigue Neti;Stade Toulousain
+26;FR270559593411;55.0;10;16;Substitute on;Cyril Baille;Stade Toulousain
+26;FR270559593411;55.0;10;16;Substitute off;Romain Ntamack;Stade Toulousain
+26;FR270559593411;55.0;10;16;Substitute on;Lucas Tauzin;Stade Toulousain
+26;FR270559593411;55.0;10;16;Substitute off;Ulupano Seuteni;Bordeaux Begles
+26;FR270559593411;55.0;10;16;Substitute on;Matthieu Jalibert;Bordeaux Begles
+26;FR270559593411;55.0;10;16;Substitute off;Maxime Lucu;Bordeaux Begles
+26;FR270559593411;55.0;10;16;Substitute on;Yann Lesgourgues;Bordeaux Begles
+26;FR270559593411;58.0;10;16;Substitute on;Jefferson Poirot;Bordeaux Begles
+26;FR270559593411;58.0;10;16;Substitute off;Thierry Paiva;Bordeaux Begles
+26;FR270559593411;59.0;10;16;Substitute on;Guillaume Marchand;Stade Toulousain
+26;FR270559593411;59.0;10;16;Substitute off;Julien Marchand;Stade Toulousain
+26;FR270559593411;63.0;10;16;Substitute off;Guido Petti Pagadizabal;Bordeaux Begles
+26;FR270559593411;63.0;10;16;Substitute on;Louis Picamoles;Bordeaux Begles
+26;FR270559593411;67.0;10;16;Substitute on;Jean-Baptiste Dubie;Bordeaux Begles
+26;FR270559593411;67.0;10;16;Substitute off;Pablo Uberti;Bordeaux Begles
+26;FR270559593411;68.0;10;16;Substitute on;Selevasio Tolofua;Stade Toulousain
+26;FR270559593411;68.0;10;16;Substitute off;Rynhardt Elstadt;Stade Toulousain
+26;FR270559593411;70.0;10;16;Substitute on;Alexi Bales;Stade Toulousain
+26;FR270559593411;70.0;10;16;Substitute off;Thomas Ramos;Stade Toulousain
+26;FR270559593411;70.0;10;16;Substitute on;Ulupano Seuteni;Bordeaux Begles
+26;FR270559593411;70.0;10;16;Substitute off;Remi Lamerat;Bordeaux Begles
+26;FR270559593411;70.0;10;16;Substitute on;Juan Cruz Mallia;Stade Toulousain
+26;FR270559593411;70.0;10;16;Substitute off;Matthis Lebel;Stade Toulousain
+26;FR270559593411;77.0;10;16;Substitute off;Charlie Faumuina;Stade Toulousain
+26;FR270559593411;77.0;10;16;Substitute on;David Ainu'u;Stade Toulousain
+26;FR270559593411;80.0;10;21;Try;Lucas Tauzin;Stade Toulousain
+26;FR270559593411;82.0;7;21;End of second half;;
+26;FR270559593405;1.0;0;0;Start of first half;;
+26;FR270559593405;6.0;3;0;Penalty goal;Gaetan Germain;Bayonne
+26;FR270559593405;7.0;3;3;Penalty goal;Joris Segonds;Stade Francais Paris
+26;FR270559593405;12.0;6;3;Penalty goal;Gaetan Germain;Bayonne
+26;FR270559593405;15.0;6;3;Substitute off;Michael Ruru;Bayonne
 26;FR270559593405;15.0;6;3;Substitute on;Guillaume Rouet;Bayonne
 26;FR270559593405;34.0;6;3;Drop Goal Missed;;
 26;FR270559593405;35.0;9;3;Penalty goal;Gaetan Germain;Bayonne
