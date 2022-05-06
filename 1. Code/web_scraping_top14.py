@@ -9,6 +9,7 @@ Created on Wed Jul  7 18:12:56 2021
 # import libraries
 import pandas as pd
 import numpy as np
+import sys, os
 
 import time
 from bs4 import BeautifulSoup
@@ -16,10 +17,8 @@ import urllib.request
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 import re
-import pygame
-
+from pygame import mixer  # play mp3
 #import winsound
-
 ###############################################################################
 # =============================================================================
 #                               Automatisation                                #
@@ -54,21 +53,34 @@ def prepare_soup(driver, tab) :
 #                                 EVENT DATA                                  #
 ###############################################################################
 
-def load_match_data (url, game_day) :
+def load_match_data (url, game_day, season) :
+    global stadium, date_time, date_day
     url = url.replace('match', 'commentary')
-    
     # query the website and return the html to the variable 'page'
     page = urllib.request.urlopen(url)
     
     # parse the html using beautiful soup and store in variable 'soup'
     soup = BeautifulSoup(page, 'html.parser')
-        
+
+    # get infos about match location/date
+    #stadium
+    
+    table_stade = soup.find('div', attrs={'class': 'capacity'})
+    stadium = table_stade.get_text().split(': ')[1]
+
+    #date
+    table_time = soup.find('div', attrs={'class': 'game-date-time'})
+    date_time = table_time.get_text().split(', ')[0]
+    date_day = " ".join(table_time.get_text().split(', ')[1:])
     # find events within table
     table = soup.find('div', attrs={'class': 'content match-commentary__content'})
     results = table.find_all('tr')
     
     col_min, col_home_score, col_away_score, col_action, col_player, col_team = [], [], [], [], [], []
+    # compteur=0
     for i in results[::-1] :
+        # compteur += 1
+        # print(compteur)
         if len(i.find_all('td')[1]['class']) == 2 :
             col_min.append(float(i.getText().split('\'')[0]))
             col_home_score.append(col_home_score[-1])
@@ -120,15 +132,22 @@ def load_match_data (url, game_day) :
             a = (' ').join(i.getText().split('\'')[1].split(' ')[1:])
             col_action.append(a.split(' - ')[0])
             if a == 'Penalty try' :
-                col_player.append('')
-                col_team.append('')
+                col_player.append('Penalty_try')
+                if int(col_home_score[-1]) == int(col_home_score[-2])+7 :
+                    col_team.append('HOME_TEAM')
+                elif int(col_home_score[-1]) == int(col_home_score[-3])+7 :
+                    col_team.append('HOME_TEAM')
+                elif int(col_away_score[-1]) == int(col_away_score[-2])+7 :
+                    col_team.append('AWAY_TEAM')
+                elif int(col_away_score[-1]) == int(col_away_score[-3])+7 :
+                    col_team.append('AWAY_TEAM')
             else :
                 col_player.append(i.getText().split(' - ')[1].split(' , ')[0])
                 col_team.append(i.getText().split(' - ')[1].split(' , ')[1])
+        
     m_id = 'FR' + url[-6:] + url[45:51]
     match_id = [m_id for i in range(len(col_min))]
-    game_day = [game_day for i in range(len(col_min))]
-    d1 = {'GAME_DAY' : game_day, 'MATCH_ID' : match_id, 'MINUTE' : col_min, 'HOME_SCORE' : col_home_score, 'AWAY_SCORE' : col_away_score,
+    d1 = {'MATCH_ID' : match_id, 'MINUTE' : col_min, 'HOME_SCORE' : col_home_score, 'AWAY_SCORE' : col_away_score,
          'ACTION_TYPE' : col_action, 'PLAYER' : col_player, 'TEAM' : col_team}
     #print(d1)
     data = pd.DataFrame(data=d1)
@@ -139,7 +158,7 @@ def load_match_data (url, game_day) :
     data.HOME_SCORE = pd.to_numeric(data.HOME_SCORE)
     data.AWAY_SCORE = pd.to_numeric(data.AWAY_SCORE)
     data.MATCH_ID = data.MATCH_ID.astype(str)
-    
+
     
     # find home and away team
     header = soup.find('div', attrs={'class': 'competitors'})
@@ -148,11 +167,12 @@ def load_match_data (url, game_day) :
     home_team = header.find('div', attrs={'class': 'team team-a'}).find_all('span')[1].getText()
     away_team = header.find('div', attrs={'class': 'team team-b'}).find_all('span')[1].getText()
     
-    d2 = {'MATCH_ID' : m_id, 'SAISON_ID' : ['20202021'], 'COMPETITION_ID' : [url[-6:]]
+    d2 = {'MATCH_ID' : m_id, 'SAISON_ID' : [season], 'COMPETITION_ID' : ["FR" + url[-6:]], 'MATCHDAY' : [game_day]
           , 'HOME_TEAM' : [home_team], 'AWAY_TEAM' : [away_team]
-          , 'HOME_SCORE' : [home_score], 'AWAY_SCORE' : [away_score]}
+          , 'HOME_SCORE' : [home_score], 'AWAY_SCORE' : [away_score]
+          , 'STADIUM' : [stadium], 'DATE_TIME' : [date_time], 'DATE_DAY' : [date_day]}
     data_info = pd.DataFrame(data=d2)
-    
+
     return data, data_info
 
 
@@ -207,13 +227,14 @@ def load_player_stats(url, tab, driver) :
     
     data = pd.concat([create_stat_dataframe(h1,d1,n1,url,team1), create_stat_dataframe(h2,d2,n2,url,team2)], ignore_index = True)
     return data
- 
+
 
 
 def concat_tabs(url, driver) :
     scoring = load_player_stats(url, 'Scoring', driver)
     attacking = load_player_stats(url, 'Attacking', driver)
     defending = load_player_stats(url, 'Defending', driver)
+    defending = defending.rename(columns={'T' : 'Tackles'})
     discipline = load_player_stats(url, 'Discipline', driver)
     data = pd.concat([scoring, attacking, defending, discipline], axis = 1)
     data = data.drop('-', axis=1)
@@ -288,17 +309,16 @@ def load_team_stats(url) :
     return data.reset_index()[colnames]
 
 
-def load_all_matches(url_list, game_day) :
-    matches_event, matches_info = load_match_data(url_list[0], game_day)
+def load_all_matches(url_list, game_day, season) :
+    matches_event, matches_info = load_match_data(url_list[0], game_day, season)
     driver = set_driver(url_list[0].replace('match', 'playerstats'), 'I Accept')
     players_stats = concat_tabs(url_list[0].replace('match', 'playerstats'), driver)
     team_stats = load_team_stats(url_list[0])
     driver.quit()
     i=1
-    print ('Match : ' + str(i))
     for url in url_list[1:] :
         i+=1
-        data_event, data_info = load_match_data(url, game_day)
+        data_event, data_info = load_match_data(url, game_day, season)
         data_team = load_team_stats(url)
         driver = set_driver(url.replace('match', 'playerstats'), 'I Accept')
         data_stats = concat_tabs(url.replace('match', 'playerstats'), driver)
@@ -309,7 +329,6 @@ def load_all_matches(url_list, game_day) :
         players_stats = pd.concat([players_stats, data_stats], ignore_index=True)
         team_stats = pd.concat([team_stats, data_team], ignore_index=True)
         
-        print('Match : ' + str(i))
         
         time.sleep(np.random.randint(low = 3, high = 10))
     
@@ -320,18 +339,55 @@ def update(path, new_df) :
     old_df = pd.concat([new_df, old_df], ignore_index=True)
     old_df.to_csv(path, sep=';', index=False)
    
-def data_to_csv(L, game_day) :
-    start_time = time.time()
-    assert len(L) == len(set(L)), "Match links are not all differents"
-    events, info, pl_stats, tm_stats = load_all_matches(L, game_day)
-    update('./2.Exports/data_event.csv', events)
-    update('./2.Exports/data_info.csv', info)
-    update('./2.Exports/player_stats.csv', pl_stats)
-    update('./2.Exports/team_stats.csv', tm_stats)  
+def data_to_csv(L, game_day, season) :
+    global events, info, pl_stats, tm_stats
+    # start_time = time.time()
+    assert len(L) == len(set(L)), "Match links are all unique"
+    events, info, pl_stats, tm_stats = load_all_matches(L, game_day, season)
+    update('./2. Exports/data_event.csv', events)
+    update('./2. Exports/data_info.csv', info)
+    update('./2. Exports/player_stats.csv', pl_stats)
+    update('./2. Exports/team_stats.csv', tm_stats) 
 
-    duree = time.time() - start_time
-    print('Durée du programme : ' + str(int(duree/60)) + 'min ' +str(int(duree/60%1*60)) + 's')
+    # duree = time.time() - start_time
+    # print('Durée du programme : ' + str(int(duree/60)) + 'min ' +str(int(duree/60%1*60)) + 's')
     
+
+
+    
+
+
+
+
+
+###############################################################################
+# =============================================================================
+# Get all matches
+# =============================================================================
+###############################################################################
+links = pd.read_csv('./Liens_matches.csv', sep=';') #182 rows
+
+start_time = time.time()
+
+for i in range (293,(links.shape[0])) :
+# for i in range (links.shape[0]) :
+    
+    data_to_csv([links['Lien'][i]], [links['Journee'][i]], [links['Saison'][i]])
+    
+    print("##########################")
+    print("Match " + str(i+1) + "/182")
+    print("##########################")
+    
+duree = time.time() - start_time
+print('Durée du programme : ' + str(int(duree/60)) + 'min ' +str(int(duree/60%1*60)) + 's')
+
+
+# play sound when end up
+mixer.init()
+mixer.music.load('./Sons/son_brahimi.mp3')
+mixer.music.play()
+
+
 
 
 
@@ -357,6 +413,5 @@ M5 = 'https://www.espn.com/rugby/match?gameId=593409&league=270559'
 M6 = 'https://www.espn.com/rugby/match?gameId=593410&league=270559'
 M7 = 'https://www.espn.com/rugby/match?gameId=593411&league=270559'
 L = [M1, M2, M3, M4, M5, M6, M7]
-
-data_to_csv(L, 26)
-
+L = ['https://www.espn.com/rugby/match?gameId=594039&league=270559']
+data_to_csv(L, 99, '20000000/2023')

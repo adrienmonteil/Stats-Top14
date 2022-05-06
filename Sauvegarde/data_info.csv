@@ -1,0 +1,364 @@
+MATCH_ID;SAISON_ID;COMPETITION_ID;MATCHDAY;HOME_TEAM;AWAY_TEAM;HOME_SCORE;AWAY_SCORE;STADIUM;DATE_TIME;DATE_DAY
+FR270559594206;['2021/2022'];FR270559;['24'];Perpignan;Brive;27.0;10.0;Stade Aime Giral;11:00 AM;April 30 2022
+FR270559594205;['2021/2022'];FR270559;['24'];Stade Toulousain;La Rochelle;23.0;16.0;Stadium de Toulouse;3:05 PM;April 30 2022
+FR270559594204;['2021/2022'];FR270559;['24'];Pau;Racing 92;21.0;42.0;Stade du Hameau;11:00 AM;April 30 2022
+FR270559594203;['2021/2022'];FR270559;['24'];Lyon;Montpellier Herault;43.0;20.0;Matmut Stadium de Gerland;9:00 AM;April 30 2022
+FR270559594202;['2021/2022'];FR270559;['24'];Bordeaux Begles;Toulon;16.0;29.0;Stade Chaban-Delmas;3:05 PM;May 1 2022
+FR270559594201;['2021/2022'];FR270559;['24'];Biarritz Olympique;Castres Olympique;13.0;48.0;Parc des Sports Aguilera;11:00 AM;April 30 2022
+FR270559594200;['2021/2022'];FR270559;['24'];Clermont Auvergne;Stade Francais Paris;29.0;26.0;Stade Marcel Michelin;11:00 AM;April 30 2022
+FR270559594199;['2021/2022'];FR270559;['23'];La Rochelle;Perpignan;32.0;16.0;Stade Marcel-Deflandre;11:15 AM;April 23 2022
+FR270559594198;['2021/2022'];FR270559;['23'];Stade Francais Paris;Pau;21.0;18.0;Stade Jean Bouin;8:15 AM;April 23 2022
+FR270559594197;['2021/2022'];FR270559;['23'];Toulon;Stade Toulousain;19.0;15.0;Orange Velodrome;3:05 PM;April 23 2022
+FR270559594196;['2021/2022'];FR270559;['23'];Racing 92;Biarritz Olympique;40.0;7.0;Paris La Defense Arena;11:15 AM;April 23 2022
+FR270559594195;['2021/2022'];FR270559;['23'];Montpellier Herault;Bordeaux Begles;22.0;23.0;GGL Stadium;3:05 PM;April 24 2022
+FR270559594194;['2021/2022'];FR270559;['23'];Castres Olympique;Clermont Auvergne;12.0;0.0;Stade Pierre Fabre;8:15 AM;April 23 2022
+FR270559594193;['2021/2022'];FR270559;['23'];Brive;Lyon;17.0;31.0;Stade Amedee-Domenech;11:15 AM;April 23 2022
+FR270559594192;['2021/2022'];FR270559;['22'];Perpignan;Montpellier Herault;13.0;23.0;Stade Aime Giral;11:00 AM;April 2 2022
+FR270559594191;['2021/2022'];FR270559;['22'];Racing 92;Stade Francais Paris;53.0;20.0;Paris La Defense Arena;3:05 PM;April 3 2022
+FR270559594190;['2021/2022'];FR270559;['22'];Lyon;Toulon;10.0;43.0;Matmut Stadium de Gerland;11:00 AM;April 2 2022
+FR270559594189;['2021/2022'];FR270559;['22'];Castres Olympique;Stade Toulousain;19.0;13.0;Stade Pierre Fabre;9:00 AM;April 2 2022
+FR270559594188;['2021/2022'];FR270559;['22'];Bordeaux Begles;La Rochelle;15.0;16.0;Stade Chaban-Delmas;3:05 PM;April 2 2022
+FR270559594187;['2021/2022'];FR270559;['22'];Biarritz Olympique;Pau;19.0;42.0;Parc des Sports Aguilera;11:00 AM;April 2 2022
+FR270559594186;['2021/2022'];FR270559;['22'];Clermont Auvergne;Brive;41.0;10.0;Stade Marcel Michelin;11:00 AM;April 2 2022
+FR270559594185;['2021/2022'];FR270559;['21'];Stade Toulousain;Lyon;27.0;19.0;Stade Ernest-Wallon;3:05 PM;March 27 2022
+FR270559594184;['2021/2022'];FR270559;['21'];La Rochelle;Racing 92;19.0;0.0;Stade Marcel-Deflandre;12:00 PM;March 26 2022
+FR270559594183;['2021/2022'];FR270559;['21'];Stade Francais Paris;Bordeaux Begles;18.0;31.0;Stade Jean Bouin;4:05 PM;March 26 2022
+FR270559594182;['2021/2022'];FR270559;['21'];Pau;Perpignan;27.0;22.0;Stade du Hameau;12:00 PM;March 26 2022
+FR270559594181;['2021/2022'];FR270559;['21'];Toulon;Clermont Auvergne;32.0;22.0;Stade Mayol;10:00 AM;March 26 2022
+FR270559594180;['2021/2022'];FR270559;['21'];Montpellier Herault;Biarritz Olympique;37.0;22.0;GGL Stadium;12:00 PM;March 26 2022
+FR270559594179;['2021/2022'];FR270559;['21'];Brive;Castres Olympique;28.0;12.0;Stade Amedee-Domenech;12:00 PM;March 26 2022
+FR270559594178;['2021/2022'];FR270559;['20'];Perpignan;Racing 92;34.0;13.0;Stade Aime Giral;11:00 AM;March 5 2022
+FR270559594177;['2021/2022'];FR270559;['20'];La Rochelle;Brive;41.0;15.0;Stade Marcel-Deflandre;11:00 AM;March 5 2022
+FR270559594176;['2021/2022'];FR270559;['20'];Stade Francais Paris;Stade Toulousain;23.0;16.0;Stade Jean Bouin;3:05 PM;March 6 2022
+FR270559594175;['2021/2022'];FR270559;['20'];Castres Olympique;Montpellier Herault;25.0;9.0;Stade Pierre Fabre;9:00 AM;March 5 2022
+FR270559594174;['2021/2022'];FR270559;['20'];Bordeaux Begles;Pau;16.0;23.0;Stade Chaban-Delmas;11:00 AM;March 5 2022
+FR270559594173;['2021/2022'];FR270559;['20'];Biarritz Olympique;Toulon;17.0;45.0;Parc des Sports Aguilera;11:00 AM;March 5 2022
+FR270559594172;['2021/2022'];FR270559;['20'];Clermont Auvergne;Lyon;25.0;16.0;Stade Marcel Michelin;3:05 PM;March 5 2022
+FR270559594171;['2021/2022'];FR270559;['19'];Stade Toulousain;Bordeaux Begles;12.0;11.0;Stade Ernest-Wallon;3:05 PM;February 27 2022
+FR270559594170;['2021/2022'];FR270559;['19'];Pau;La Rochelle;16.0;22.0;Stade du Hameau;11:15 AM;February 26 2022
+FR270559594169;['2021/2022'];FR270559;['19'];Racing 92;Castres Olympique;45.0;25.0;Paris La Defense Arena;11:15 AM;February 26 2022
+FR270559594168;['2021/2022'];FR270559;['19'];Montpellier Herault;Stade Francais Paris;30.0;3.0;GGL Stadium;11:30 AM;February 27 2022
+FR270559594167;['2021/2022'];FR270559;['19'];Lyon;Biarritz Olympique;34.0;15.0;Matmut Stadium de Gerland;11:15 AM;February 26 2022
+FR270559594166;['2021/2022'];FR270559;['19'];Brive;Toulon;17.0;10.0;Stade Amedee-Domenech;3:05 PM;February 26 2022
+FR270559594165;['2021/2022'];FR270559;['19'];Clermont Auvergne;Perpignan;52.0;12.0;Stade Marcel Michelin;11:15 AM;February 26 2022
+FR270559594164;['2021/2022'];FR270559;['18'];La Rochelle;Clermont Auvergne;31.0;27.0;Stade Marcel-Deflandre;3:05 PM;February 19 2022
+FR270559594163;['2021/2022'];FR270559;['18'];Stade Francais Paris;Biarritz Olympique;65.0;19.0;Stade Jean Bouin;11:00 AM;February 19 2022
+FR270559594162;['2021/2022'];FR270559;['18'];Pau;Stade Toulousain;27.0;22.0;Stade du Hameau;9:00 AM;February 19 2022
+FR270559594161;['2021/2022'];FR270559;['18'];Toulon;Perpignan;29.0;18.0;Stade Mayol;11:00 AM;February 19 2022
+FR270559594160;['2021/2022'];FR270559;['18'];Castres Olympique;Lyon;19.0;17.0;Stade Pierre Fabre;11:00 AM;February 19 2022
+FR270559594159;['2021/2022'];FR270559;['18'];Brive;Montpellier Herault;16.0;16.0;Stade Amedee-Domenech;11:00 AM;February 19 2022
+FR270559594158;['2021/2022'];FR270559;['18'];Bordeaux Begles;Racing 92;13.0;16.0;Stade Chaban-Delmas;3:05 PM;February 20 2022
+FR270559594157;['2021/2022'];FR270559;['17'];Perpignan;Stade Toulousain;36.0;13.0;Stade Aime Giral;9:00 AM;February 5 2022
+FR270559594156;['2021/2022'];FR270559;['17'];Toulon;Castres Olympique;10.0;22.0;Stade Mayol;3:05 PM;February 5 2022
+FR270559594155;['2021/2022'];FR270559;['17'];Racing 92;Brive;57.0;19.0;Paris La Defense Arena;11:00 AM;February 5 2022
+FR270559594154;['2021/2022'];FR270559;['17'];Montpellier Herault;Pau;29.0;12.0;GGL Stadium;11:00 AM;February 5 2022
+FR270559594153;['2021/2022'];FR270559;['17'];Lyon;Stade Francais Paris;26.0;22.0;Matmut Stadium de Gerland;11:00 AM;February 5 2022
+FR270559594152;['2021/2022'];FR270559;['17'];Biarritz Olympique;La Rochelle;27.0;24.0;Parc des Sports Aguilera;3:05 PM;February 6 2022
+FR270559594151;['2021/2022'];FR270559;['17'];Clermont Auvergne;Bordeaux Begles;29.0;26.0;Stade Marcel Michelin;4:05 PM;March 13 2022
+FR270559594150;['2021/2022'];FR270559;['16'];Perpignan;Lyon;23.0;28.0;Stade Aime Giral;11:00 AM;January 29 2022
+FR270559594149;['2021/2022'];FR270559;['16'];Stade Toulousain;Racing 92;15.0;20.0;Stade Ernest-Wallon;3:05 PM;January 29 2022
+FR270559594148;['2021/2022'];FR270559;['16'];La Rochelle;Montpellier Herault;23.0;29.0;Stade Marcel-Deflandre;11:00 AM;January 29 2022
+FR270559594147;['2021/2022'];FR270559;['16'];Stade Francais Paris;Toulon;26.0;24.0;Stade Jean Bouin;3:05 PM;January 30 2022
+FR270559594146;['2021/2022'];FR270559;['16'];Pau;Clermont Auvergne;28.0;20.0;Stade du Hameau;12:00 PM;January 30 2022
+FR270559594145;['2021/2022'];FR270559;['16'];Brive;Biarritz Olympique;33.0;10.0;Stade Amedee-Domenech;11:00 AM;January 29 2022
+FR270559594144;['2021/2022'];FR270559;['16'];Bordeaux Begles;Castres Olympique;23.0;10.0;Stade Chaban-Delmas;9:00 AM;January 29 2022
+FR270559594143;['2021/2022'];FR270559;['15'];Stade Toulousain;Montpellier Herault;35.0;10.0;Stade Ernest-Wallon;4:05 PM;March 20 2022
+FR270559594142;['2021/2022'];FR270559;['15'];Toulon;La Rochelle;41.0;11.0;Stade Mayol;12:15 PM;March 19 2022
+FR270559594141;['2021/2022'];FR270559;['15'];Racing 92;Clermont Auvergne;33.0;28.0;Paris La Defense Arena;3:05 PM;January 8 2022
+FR270559594140;['2021/2022'];FR270559;['15'];Lyon;Pau;35.0;10.0;Matmut Stadium de Gerland;11:00 AM;January 8 2022
+FR270559594139;['2021/2022'];FR270559;['15'];Castres Olympique;Stade Francais Paris;15.0;9.0;Stade Pierre Fabre;9:00 AM;January 8 2022
+FR270559594138;['2021/2022'];FR270559;['15'];Brive;Bordeaux Begles;19.0;22.0;Stade Amedee-Domenech;11:00 AM;January 8 2022
+FR270559594137;['2021/2022'];FR270559;['15'];Biarritz Olympique;Perpignan;23.0;25.0;Parc des Sports Aguilera;11:00 AM;January 8 2022
+FR270559594136;['2021/2022'];FR270559;['14'];Stade Francais Paris;Perpignan;27.0;17.0;Stade Jean Bouin;1:00 PM;January 1 2022
+FR270559594135;['2021/2022'];FR270559;['14'];Pau;Brive;43.0;20.0;Stade du Hameau;8:00 AM;January 2 2022
+FR270559594134;['2021/2022'];FR270559;['14'];Montpellier Herault;Toulon;18.0;16.0;GGL Stadium;3:05 PM;March 12 2022
+FR270559594133;['2021/2022'];FR270559;['14'];Lyon;Racing 92;37.0;35.0;Matmut Stadium de Gerland;3:05 PM;January 2 2022
+FR270559594132;['2021/2022'];FR270559;['14'];Castres Olympique;La Rochelle;31.0;30.0;Stade Pierre Fabre;12:00 PM;January 2 2022
+FR270559594131;['2021/2022'];FR270559;['14'];Bordeaux Begles;Biarritz Olympique;30.0;27.0;Stade Chaban-Delmas;10:00 AM;January 2 2022
+FR270559594130;['2021/2022'];FR270559;['14'];Clermont Auvergne;Stade Toulousain;16.0;13.0;Stade Marcel Michelin;3:05 PM;January 1 2022
+FR270559594129;['2021/2022'];FR270559;['13'];Perpignan;Castres Olympique;19.0;20.0;Stade Aime Giral;12:00 PM;December 26 2021
+FR270559594128;['2021/2022'];FR270559;['13'];Stade Toulousain;Stade Francais Paris;28.0;29.0;Stadium de Toulouse;3:05 PM;February 11 2022
+FR270559594127;['2021/2022'];FR270559;['13'];La Rochelle;Lyon;25.0;3.0;Stade Marcel-Deflandre;3:05 PM;December 27 2021
+FR270559594126;['2021/2022'];FR270559;['13'];Toulon;Bordeaux Begles;21.0;18.0;Stade Mayol;3:05 PM;February 12 2022
+FR270559594125;['2021/2022'];FR270559;['13'];Racing 92;Pau;35.0;29.0;Paris La Defense Arena;8:15 AM;February 12 2022
+FR270559594124;['2021/2022'];FR270559;['13'];Brive;Clermont Auvergne;27.0;20.0;Stade Amedee-Domenech;9:05 AM;February 12 2022
+FR270559594123;['2021/2022'];FR270559;['13'];Biarritz Olympique;Montpellier Herault;12.0;27.0;Parc des Sports Aguilera;1:00 PM;December 27 2021
+FR270559594122;['2021/2022'];FR270559;['12'];Stade Francais Paris;La Rochelle;25.0;20.0;Stade Jean Bouin;3:05 PM;December 5 2021
+FR270559594121;['2021/2022'];FR270559;['12'];Pau;Toulon;16.0;16.0;Stade du Hameau;11:00 AM;December 4 2021
+FR270559594120;['2021/2022'];FR270559;['12'];Montpellier Herault;Perpignan;30.0;6.0;GGL Stadium;9:00 AM;December 4 2021
+FR270559594119;['2021/2022'];FR270559;['12'];Lyon;Brive;41.0;0.0;Matmut Stadium de Gerland;9:00 AM;December 4 2021
+FR270559594118;['2021/2022'];FR270559;['12'];Castres Olympique;Racing 92;25.0;3.0;Stade Pierre Fabre;9:00 AM;December 4 2021
+FR270559594117;['2021/2022'];FR270559;['12'];Bordeaux Begles;Stade Toulousain;17.0;7.0;Stade Chaban-Delmas;3:05 PM;December 4 2021
+FR270559594116;['2021/2022'];FR270559;['12'];Clermont Auvergne;Biarritz Olympique;39.0;11.0;Stade Marcel Michelin;9:00 AM;December 4 2021
+FR270559594115;['2021/2022'];FR270559;['11'];Perpignan;Clermont Auvergne;26.0;24.0;Stade Aime Giral;9:00 AM;November 27 2021
+FR270559594114;['2021/2022'];FR270559;['11'];Stade Toulousain;Brive;18.0;11.0;Stade Ernest-Wallon;3:05 PM;November 27 2021
+FR270559594113;['2021/2022'];FR270559;['11'];La Rochelle;Pau;36.0;8.0;Stade Marcel-Deflandre;9:00 AM;November 27 2021
+FR270559594112;['2021/2022'];FR270559;['11'];Toulon;Lyon;19.0;13.0;Stade Mayol;11:00 AM;November 27 2021
+FR270559594111;['2021/2022'];FR270559;['11'];Racing 92;Bordeaux Begles;14.0;37.0;Paris La Defense Arena;3:05 PM;November 28 2021
+FR270559594110;['2021/2022'];FR270559;['11'];Montpellier Herault;Castres Olympique;25.0;24.0;GGL Stadium;9:00 AM;November 27 2021
+FR270559594109;['2021/2022'];FR270559;['11'];Biarritz Olympique;Stade Francais Paris;17.0;14.0;Parc des Sports Aguilera;9:00 AM;November 27 2021
+FR270559594108;['2021/2022'];FR270559;['10'];Stade Toulousain;Perpignan;37.0;15.0;Stade Ernest-Wallon;9:45 AM;November 6 2021
+FR270559594107;['2021/2022'];FR270559;['10'];La Rochelle;Bordeaux Begles;26.0;3.0;Stade Marcel-Deflandre;4:00 PM;November 5 2021
+FR270559594106;['2021/2022'];FR270559;['10'];Stade Francais Paris;Montpellier Herault;27.0;31.0;Stade Jean Bouin;9:45 AM;November 6 2021
+FR270559594105;['2021/2022'];FR270559;['10'];Pau;Biarritz Olympique;33.0;21.0;Stade du Hameau;9:45 AM;November 6 2021
+FR270559594104;['2021/2022'];FR270559;['10'];Lyon;Castres Olympique;30.0;23.0;Matmut Stadium de Gerland;9:45 AM;November 6 2021
+FR270559594103;['2021/2022'];FR270559;['10'];Brive;Racing 92;12.0;10.0;Stade Amedee-Domenech;12:00 PM;November 6 2021
+FR270559594102;['2021/2022'];FR270559;['10'];Clermont Auvergne;Toulon;31.0;16.0;Stade Marcel Michelin;3:05 PM;November 7 2021
+FR270559594101;['2021/2022'];FR270559;['9'];Perpignan;La Rochelle;22.0;13.0;Stade Aime Giral;9:00 AM;October 30 2021
+FR270559594100;['2021/2022'];FR270559;['9'];Pau;Stade Francais Paris;18.0;9.0;Stade du Hameau;9:00 AM;October 30 2021
+FR270559594099;['2021/2022'];FR270559;['9'];Toulon;Biarritz Olympique;13.0;9.0;Stade Mayol;9:00 AM;October 30 2021
+FR270559594098;['2021/2022'];FR270559;['9'];Racing 92;Stade Toulousain;27.0;18.0;Paris La Defense Arena;4:05 PM;October 31 2021
+FR270559594097;['2021/2022'];FR270559;['9'];Montpellier Herault;Lyon;30.0;8.0;GGL Stadium;11:00 AM;October 30 2021
+FR270559594096;['2021/2022'];FR270559;['9'];Castres Olympique;Brive;23.0;22.0;Stade Pierre Fabre;9:00 AM;October 30 2021
+FR270559594095;['2021/2022'];FR270559;['9'];Bordeaux Begles;Clermont Auvergne;25.0;9.0;Stade Chaban-Delmas;3:05 PM;October 30 2021
+FR270559594094;['2021/2022'];FR270559;['8'];Stade Toulousain;Castres Olympique;41.0;0.0;Stade Ernest-Wallon;3:00 PM;October 23 2021
+FR270559594093;['2021/2022'];FR270559;['8'];La Rochelle;Toulon;39.0;6.0;Stade Marcel-Deflandre;3:05 PM;October 24 2021
+FR270559594092;['2021/2022'];FR270559;['8'];Stade Francais Paris;Lyon;23.0;18.0;Stade Jean Bouin;9:00 AM;October 23 2021
+FR270559594091;['2021/2022'];FR270559;['8'];Racing 92;Montpellier Herault;21.0;32.0;Paris La Defense Arena;11:00 AM;October 23 2021
+FR270559594090;['2021/2022'];FR270559;['8'];Bordeaux Begles;Perpignan;39.0;13.0;Stade Chaban-Delmas;9:00 AM;October 23 2021
+FR270559594089;['2021/2022'];FR270559;['8'];Biarritz Olympique;Brive;37.0;9.0;Parc des Sports Aguilera;9:00 AM;October 23 2021
+FR270559594088;['2021/2022'];FR270559;['8'];Clermont Auvergne;Pau;42.0;20.0;Stade Marcel Michelin;9:00 AM;October 23 2021
+FR270559594087;['2021/2022'];FR270559;['7'];Perpignan;Stade Francais Paris;22.0;23.0;Stade Aime Giral;9:00 AM;October 16 2021
+FR270559594086;['2021/2022'];FR270559;['7'];Pau;Bordeaux Begles;33.0;37.0;Stade du Hameau;9:00 AM;October 16 2021
+FR270559594085;['2021/2022'];FR270559;['7'];Toulon;Racing 92;20.0;27.0;Stade Mayol;3:05 PM;October 16 2021
+FR270559594084;['2021/2022'];FR270559;['7'];Montpellier Herault;Clermont Auvergne;20.0;22.0;GGL Stadium;11:03 AM;October 16 2021
+FR270559594083;['2021/2022'];FR270559;['7'];Lyon;Stade Toulousain;25.0;19.0;Matmut Stadium de Gerland;3:05 PM;October 17 2021
+FR270559594082;['2021/2022'];FR270559;['7'];Castres Olympique;Biarritz Olympique;38.0;20.0;Stade Pierre Fabre;9:00 AM;October 16 2021
+FR270559594081;['2021/2022'];FR270559;['7'];Brive;La Rochelle;6.0;8.0;Stade Amedee-Domenech;9:00 AM;October 16 2021
+FR270559594080;['2021/2022'];FR270559;['6'];Stade Toulousain;Pau;38.0;10.0;Stade Ernest-Wallon;11:00 AM;October 9 2021
+FR270559594079;['2021/2022'];FR270559;['6'];La Rochelle;Castres Olympique;29.0;10.0;Stade Marcel-Deflandre;9:00 AM;October 9 2021
+FR270559594078;['2021/2022'];FR270559;['6'];Stade Francais Paris;Clermont Auvergne;22.0;14.0;Stade Jean Bouin;3:05 PM;October 10 2021
+FR270559594077;['2021/2022'];FR270559;['6'];Toulon;Brive;13.0;9.0;Stade Mayol;3:05 PM;October 9 2021
+FR270559594076;['2021/2022'];FR270559;['6'];Racing 92;Perpignan;17.0;14.0;Paris La Defense Arena;9:00 AM;October 9 2021
+FR270559594075;['2021/2022'];FR270559;['6'];Bordeaux Begles;Montpellier Herault;27.0;23.0;Stade Chaban-Delmas;9:00 AM;October 9 2021
+FR270559594074;['2021/2022'];FR270559;['6'];Biarritz Olympique;Lyon;5.0;40.0;Parc des Sports Aguilera;9:00 AM;October 9 2021
+FR270559594073;['2021/2022'];FR270559;['5'];Perpignan;Pau;14.0;29.0;Stade Aime Giral;9:00 AM;October 2 2021
+FR270559594072;['2021/2022'];FR270559;['5'];Montpellier Herault;La Rochelle;21.0;11.0;GGL Stadium;9:00 AM;October 2 2021
+FR270559594071;['2021/2022'];FR270559;['5'];Lyon;Bordeaux Begles;15.0;20.0;Matmut Stadium de Gerland;9:00 AM;October 2 2021
+FR270559594070;['2021/2022'];FR270559;['5'];Castres Olympique;Toulon;27.0;16.0;Stade Pierre Fabre;3:05 PM;October 2 2021
+FR270559594069;['2021/2022'];FR270559;['5'];Brive;Stade Francais Paris;19.0;12.0;Stade Amedee-Domenech;9:00 AM;October 2 2021
+FR270559594068;['2021/2022'];FR270559;['5'];Biarritz Olympique;Stade Toulousain;11.0;17.0;Parc des Sports Aguilera;11:00 AM;October 2 2021
+FR270559594067;['2021/2022'];FR270559;['5'];Clermont Auvergne;Racing 92;26.0;17.0;Stade Marcel Michelin;3:05 PM;October 3 2021
+FR270559594066;['2021/2022'];FR270559;['4'];Perpignan;Toulon;12.0;9.0;Stade Aime Giral;3:00 PM;September 25 2021
+FR270559594065;['2021/2022'];FR270559;['4'];Stade Toulousain;Clermont Auvergne;27.0;15.0;Stade Ernest-Wallon;3:05 PM;September 26 2021
+FR270559594064;['2021/2022'];FR270559;['4'];La Rochelle;Biarritz Olympique;59.0;17.0;Stade Marcel-Deflandre;9:00 AM;September 25 2021
+FR270559594063;['2021/2022'];FR270559;['4'];Stade Francais Paris;Castres Olympique;34.0;10.0;Stade Jean Bouin;9:00 AM;September 25 2021
+FR270559594062;['2021/2022'];FR270559;['4'];Pau;Montpellier Herault;23.0;22.0;Stade du Hameau;9:00 AM;September 25 2021
+FR270559594061;['2021/2022'];FR270559;['4'];Racing 92;Lyon;24.0;20.0;Paris La Defense Arena;11:00 AM;September 25 2021
+FR270559594060;['2021/2022'];FR270559;['4'];Bordeaux Begles;Brive;29.0;10.0;Stade Chaban-Delmas;9:00 AM;September 25 2021
+FR270559594059;['2021/2022'];FR270559;['3'];Toulon;Stade Francais Paris;38.0;5.0;Stade Mayol;3:05 PM;September 19 2021
+FR270559594058;['2021/2022'];FR270559;['3'];Montpellier Herault;Stade Toulousain;15.0;17.0;GGL Stadium;11:00 AM;September 18 2021
+FR270559594057;['2021/2022'];FR270559;['3'];Lyon;Perpignan;47.0;3.0;Matmut Stadium de Gerland;9:00 AM;September 18 2021
+FR270559594056;['2021/2022'];FR270559;['3'];Castres Olympique;Bordeaux Begles;23.0;23.0;Stade Pierre Fabre;9:00 AM;September 18 2021
+FR270559594055;['2021/2022'];FR270559;['3'];Brive;Pau;30.0;13.0;Stade Amedee-Domenech;9:00 AM;September 18 2021
+FR270559594054;['2021/2022'];FR270559;['3'];Biarritz Olympique;Racing 92;28.0;19.0;Parc des Sports Aguilera;9:00 AM;September 18 2021
+FR270559594053;['2021/2022'];FR270559;['3'];Clermont Auvergne;La Rochelle;23.0;22.0;Stade Marcel Michelin;3:05 PM;September 18 2021
+FR270559594052;['2021/2022'];FR270559;['2'];Perpignan;Biarritz Olympique;33.0;20.0;Stade Aime Giral;9:05 AM;September 11 2021
+FR270559594051;['2021/2022'];FR270559;['2'];Stade Toulousain;Toulon;41.0;10.0;Stade Ernest-Wallon;3:05 PM;September 12 2021
+FR270559594050;['2021/2022'];FR270559;['2'];Pau;Lyon;21.0;17.0;Stade du Hameau;9:05 AM;September 11 2021
+FR270559594049;['2021/2022'];FR270559;['2'];Racing 92;La Rochelle;23.0;10.0;Paris La Defense Arena;3:05 PM;September 11 2021
+FR270559594048;['2021/2022'];FR270559;['2'];Montpellier Herault;Brive;39.0;17.0;GGL Stadium;9:05 AM;September 11 2021
+FR270559594047;['2021/2022'];FR270559;['2'];Bordeaux Begles;Stade Francais Paris;37.0;10.0;Stade Chaban-Delmas;11:15 AM;September 11 2021
+FR270559594046;['2021/2022'];FR270559;['2'];Clermont Auvergne;Castres Olympique;30.0;34.0;Stade Marcel Michelin;9:05 AM;September 11 2021
+FR270559594045;['2021/2022'];FR270559;['1'];La Rochelle;Stade Toulousain;16.0;20.0;Stade Marcel-Deflandre;3:05 PM;September 5 2021
+FR270559594044;['2021/2022'];FR270559;['1'];Stade Francais Paris;Racing 92;21.0;36.0;Stade Jean Bouin;12:15 PM;September 4 2021
+FR270559594043;['2021/2022'];FR270559;['1'];Toulon;Montpellier Herault;24.0;24.0;Stade Mayol;3:05 PM;September 4 2021
+FR270559594042;['2021/2022'];FR270559;['1'];Lyon;Clermont Auvergne;28.0;19.0;Matmut Stadium de Gerland;11:45 AM;September 5 2021
+FR270559594041;['2021/2022'];FR270559;['1'];Castres Olympique;Pau;16.0;12.0;Stade Pierre Fabre;10:05 AM;September 4 2021
+FR270559594040;['2021/2022'];FR270559;['1'];Brive;Perpignan;36.0;15.0;Stade Amedee-Domenech;10:05 AM;September 4 2021
+FR270559594039;['2021/2022'];FR270559;['1'];Biarritz Olympique;Bordeaux Begles;27.0;15.0;Parc des Sports Aguilera;8:00 AM;September 4 2021
+FR270559593416;['2020/2021'];FR270559;['Finale'];Stade Toulousain;La Rochelle;18.0;8.0;Stade de France;2:45 PM;June 25 2021
+FR270559593415;['2020/2021'];FR270559;['1/2 finale'];Stade Toulousain;Bordeaux Begles;24.0;21.0;Stade Pierre Mauroy;2:45 PM;June 19 2021
+FR270559593414;['2020/2021'];FR270559;['1/2 finale'];La Rochelle;Racing 92;19.0;6.0;Stade Pierre Mauroy;2:45 PM;June 18 2021
+FR270559593413;['2020/2021'];FR270559;['Barrage'];Bordeaux Begles;Clermont Auvergne;25.0;16.0;Stade Chaban-Delmas;2:45 PM;June 12 2021
+FR270559593412;['2020/2021'];FR270559;['Barrage'];Racing 92;Stade Francais Paris;38.0;21.0;Paris La Defense Arena;2:45 PM;June 11 2021
+FR270559593411;S20202021;FR270559;26.0;Bordeaux Begles;Stade Toulousain;10.0;21.0;Stade Chaban-Delmas;3:05 PM;June 5 2021
+FR270559593410;S20202021;FR270559;26.0;Racing 92;Brive;55.0;12.0;Paris La Defense Arena;3:05 PM;June 5 2021
+FR270559593409;S20202021;FR270559;26.0;Pau;Montpellier Herault;41.0;25.0;Stade du Hameau;3:05 PM;June 5 2021
+FR270559593408;S20202021;FR270559;26.0;Lyon;Agen;52.0;7.0;Matmut Stadium de Gerland;3:05 PM;June 5 2021
+FR270559593407;S20202021;FR270559;26.0;Clermont Auvergne;La Rochelle;25.0;20.0;Stade Marcel Michelin;3:05 PM;June 5 2021
+FR270559593406;S20202021;FR270559;26.0;Castres Olympique;Toulon;46.0;24.0;Stade Pierre Fabre;3:05 PM;June 5 2021
+FR270559593405;S20202021;FR270559;26.0;Bayonne;Stade Francais Paris;9.0;12.0;Stade Jean Dauger;3:05 PM;June 5 2021
+FR270559593404;S20202021;FR270559;25.0;Stade Toulousain;Clermont Auvergne;36.0;27.0;Stade Ernest-Wallon;3:05 PM;May 29 2021
+FR270559593403;S20202021;FR270559;25.0;Stade Francais Paris;Lyon;46.0;27.0;Stade Jean Bouin;2:45 PM;May 28 2021
+FR270559593402;S20202021;FR270559;25.0;Montpellier Herault;Bayonne;23.0;19.0;GGL Stadium;11:00 AM;May 29 2021
+FR270559593401;S20202021;FR270559;25.0;La Rochelle;Pau;51.0;27.0;Stade Marcel-Deflandre;11:00 AM;May 29 2021
+FR270559593400;S20202021;FR270559;25.0;Brive;Castres Olympique;28.0;33.0;Stade Amedee-Domenech;11:00 AM;May 29 2021
+FR270559593399;S20202021;FR270559;25.0;Agen;Racing 92;14.0;54.0;Alfred Armandie;11:00 AM;May 29 2021
+FR270559593398;S20202021;FR270559;25.0;Toulon;Bordeaux Begles;25.0;19.0;Stade Mayol;8:45 AM;May 29 2021
+FR270559593397;S20202021;FR270559;24.0;Clermont Auvergne;Toulon;25.0;16.0;Stade Marcel Michelin;3:05 PM;May 15 2021
+FR270559593396;S20202021;FR270559;24.0;Stade Toulousain;Bayonne;28.0;32.0;Stade Ernest-Wallon;11:00 AM;May 15 2021
+FR270559593395;S20202021;FR270559;24.0;Pau;Racing 92;29.0;35.0;Stade du Hameau;2:45 PM;May 14 2021
+FR270559593394;S20202021;FR270559;24.0;Stade Francais Paris;Montpellier Herault;32.0;10.0;Stade Jean Bouin;11:00 AM;May 15 2021
+FR270559593393;S20202021;FR270559;24.0;Lyon;Brive;24.0;7.0;Matmut Stadium de Gerland;11:00 AM;May 15 2021
+FR270559593392;S20202021;FR270559;24.0;La Rochelle;Agen;59.0;0.0;Stade Marcel-Deflandre;11:00 AM;May 15 2021
+FR270559593391;S20202021;FR270559;24.0;Bordeaux Begles;Castres Olympique;20.0;16.0;Stade Chaban-Delmas;8:45 AM;May 15 2021
+FR270559593390;S20202021;FR270559;23.0;Toulon;Stade Toulousain;44.0;10.0;Stade Mayol;3:05 PM;May 8 2021
+FR270559593389;S20202021;FR270559;23.0;Montpellier Herault;La Rochelle;32.0;22.0;GGL Stadium;11:45 AM;May 8 2021
+FR270559593388;S20202021;FR270559;23.0;Castres Olympique;Lyon;37.0;29.0;Stade Pierre Fabre;2:45 PM;May 7 2021
+FR270559593387;S20202021;FR270559;23.0;Brive;Stade Francais Paris;28.0;31.0;Stade Amedee-Domenech;11:45 AM;May 8 2021
+FR270559593386;S20202021;FR270559;23.0;Bayonne;Bordeaux Begles;22.0;47.0;Stade Jean Dauger;11:45 AM;May 8 2021
+FR270559593385;S20202021;FR270559;23.0;Agen;Pau;7.0;47.0;Alfred Armandie;11:45 AM;May 8 2021
+FR270559593384;S20202021;FR270559;23.0;Racing 92;Clermont Auvergne;45.0;19.0;Paris La Defense Arena;8:45 AM;May 8 2021
+FR270559593383;S20202021;FR270559;22.0;Toulon;Agen;34.0;17.0;Stade Mayol;12:30 PM;May 1 2021
+FR270559593382;S20202021;FR270559;22.0;Stade Francais Paris;Pau;46.0;32.0;Stade Jean Bouin;11:45 AM;April 24 2021
+FR270559593381;S20202021;FR270559;22.0;Brive;La Rochelle;24.0;12.0;Stade Amedee-Domenech;12:45 PM;May 11 2021
+FR270559593380;S20202021;FR270559;22.0;Bordeaux Begles;Montpellier Herault;57.0;9.0;Stade Chaban-Delmas;2:45 PM;May 25 2021
+FR270559593379;S20202021;FR270559;22.0;Bayonne;Castres Olympique;23.0;26.0;Stade Jean Dauger;2:45 PM;April 29 2021
+FR270559593378;S20202021;FR270559;22.0;Stade Toulousain;Racing 92;34.0;16.0;Stade Ernest-Wallon;3:05 PM;April 24 2021
+FR270559593377;S20202021;FR270559;22.0;Lyon;Clermont Auvergne;41.0;30.0;Matmut Stadium de Gerland;8:45 AM;April 24 2021
+FR270559593376;S20202021;FR270559;21.0;Pau;Bayonne;43.0;33.0;Stade du Hameau;2:45 PM;April 16 2021
+FR270559593375;S20202021;FR270559;21.0;La Rochelle;Lyon;38.0;23.0;Stade Marcel-Deflandre;3:05 PM;April 17 2021
+FR270559593374;S20202021;FR270559;21.0;Clermont Auvergne;Brive;37.0;27.0;Stade Marcel Michelin;12:30 PM;May 1 2021
+FR270559593373;S20202021;FR270559;21.0;Castres Olympique;Stade Toulousain;26.0;24.0;Stade Pierre Fabre;8:48 AM;April 17 2021
+FR270559593372;S20202021;FR270559;21.0;Agen;Bordeaux Begles;3.0;49.0;Alfred Armandie;12:45 PM;May 21 2021
+FR270559593371;S20202021;FR270559;21.0;Montpellier Herault;Toulon;29.0;10.0;GGL Stadium;3:00 PM;May 11 2021
+FR270559593370;S20202021;FR270559;21.0;Racing 92;Stade Francais Paris;29.0;35.0;Paris La Defense Arena;8:05 AM;May 1 2021
+FR270559593369;S20202021;FR270559;20.0;Stade Toulousain;Montpellier Herault;16.0;29.0;Stade Ernest-Wallon;12:45 PM;March 27 2021
+FR270559593368;S20202021;FR270559;20.0;Castres Olympique;Pau;38.0;33.0;Stade Pierre Fabre;12:30 PM;March 27 2021
+FR270559593367;S20202021;FR270559;20.0;Brive;Agen;57.0;3.0;Stade Amedee-Domenech;12:30 PM;March 27 2021
+FR270559593366;S20202021;FR270559;20.0;Bordeaux Begles;La Rochelle;11.0;26.0;Stade Chaban-Delmas;12:15 PM;March 27 2021
+FR270559593365;S20202021;FR270559;20.0;Bayonne;Racing 92;23.0;13.0;Stade Jean Dauger;12:15 PM;March 27 2021
+FR270559593364;S20202021;FR270559;20.0;Stade Francais Paris;Clermont Auvergne;27.0;34.0;Stade Jean Bouin;9:45 AM;March 27 2021
+FR270559593363;S20202021;FR270559;20.0;Lyon;Toulon;54.0;16.0;Matmut Stadium de Gerland;4:05 PM;March 27 2021
+FR270559593362;S20202021;FR270559;19.0;Pau;Brive;27.0;32.0;Stade du Hameau;8:45 AM;January 24 2021
+FR270559593361;S20202021;FR270559;19.0;Montpellier Herault;Lyon;16.0;21.0;GGL Stadium;12:15 PM;January 23 2021
+FR270559593360;S20202021;FR270559;19.0;La Rochelle;Bayonne;40.0;3.0;Stade Marcel-Deflandre;2:45 PM;January 22 2021
+FR270559593359;S20202021;FR270559;19.0;Clermont Auvergne;Castres Olympique;59.0;19.0;Stade Marcel Michelin;12:15 PM;January 23 2021
+FR270559593358;S20202021;FR270559;19.0;Agen;Stade Toulousain;0.0;59.0;Alfred Armandie;12:15 PM;January 23 2021
+FR270559593357;S20202021;FR270559;19.0;Racing 92;Bordeaux Begles;32.0;33.0;Paris La Defense Arena;9:15 AM;January 23 2021
+FR270559593356;S20202021;FR270559;19.0;Toulon;Stade Francais Paris;35.0;13.0;Stade Mayol;3:05 PM;January 24 2021
+FR270559593355;S20202021;FR270559;18.0;Stade Toulousain;Brive;42.0;17.0;Stade Ernest-Wallon;8:45 AM;March 6 2021
+FR270559593354;S20202021;FR270559;18.0;Stade Francais Paris;Agen;40.0;21.0;Stade Jean Bouin;11:00 AM;March 6 2021
+FR270559593353;S20202021;FR270559;18.0;Castres Olympique;La Rochelle;22.0;15.0;Stade Pierre Fabre;11:00 AM;March 6 2021
+FR270559593352;S20202021;FR270559;18.0;Bordeaux Begles;Pau;29.0;23.0;Stade Chaban-Delmas;11:00 AM;March 6 2021
+FR270559593351;S20202021;FR270559;18.0;Bayonne;Lyon;20.0;28.0;Stade Jean Dauger;11:00 AM;March 6 2021
+FR270559593350;S20202021;FR270559;18.0;Montpellier Herault;Clermont Auvergne;22.0;16.0;GGL Stadium;2:45 PM;March 5 2021
+FR270559593349;S20202021;FR270559;18.0;Toulon;Racing 92;25.0;21.0;Stade Mayol;3:05 PM;March 6 2021
+FR270559593348;S20202021;FR270559;17.0;Racing 92;Castres Olympique;23.0;20.0;Paris La Defense Arena;2:45 PM;February 19 2021
+FR270559593347;S20202021;FR270559;17.0;Pau;Toulon;29.0;33.0;Stade du Hameau;11:45 AM;February 20 2021
+FR270559593346;S20202021;FR270559;17.0;La Rochelle;Stade Francais Paris;16.0;11.0;Stade Marcel-Deflandre;8:45 AM;February 20 2021
+FR270559593345;S20202021;FR270559;17.0;Clermont Auvergne;Bayonne;73.0;3.0;Stade Marcel Michelin;11:45 AM;February 20 2021
+FR270559593344;S20202021;FR270559;17.0;Brive;Bordeaux Begles;25.0;23.0;Stade Amedee-Domenech;11:45 AM;February 20 2021
+FR270559593343;S20202021;FR270559;17.0;Agen;Montpellier Herault;19.0;39.0;Alfred Armandie;11:45 AM;February 20 2021
+FR270559593342;S20202021;FR270559;17.0;Lyon;Stade Toulousain;31.0;23.0;Matmut Stadium de Gerland;3:05 PM;February 20 2021
+FR270559593341;S20202021;FR270559;16.0;Stade Toulousain;Pau;31.0;9.0;Stade Ernest-Wallon;2:45 PM;February 12 2021
+FR270559593340;S20202021;FR270559;16.0;Toulon;La Rochelle;11.0;29.0;Stade Mayol;3:05 PM;February 13 2021
+FR270559593339;S20202021;FR270559;16.0;Racing 92;Lyon;34.0;26.0;Paris La Defense Arena;11:00 AM;February 13 2021
+FR270559593338;S20202021;FR270559;16.0;Castres Olympique;Montpellier Herault;48.0;17.0;Stade Pierre Fabre;11:00 AM;February 13 2021
+FR270559593337;S20202021;FR270559;16.0;Bayonne;Brive;26.0;23.0;Stade Jean Dauger;1:05 PM;February 14 2021
+FR270559593336;S20202021;FR270559;16.0;Agen;Clermont Auvergne;16.0;52.0;Alfred Armandie;8:45 AM;February 27 2021
+FR270559593335;S20202021;FR270559;16.0;Bordeaux Begles;Stade Francais Paris;44.0;6.0;Stade Chaban-Delmas;8:45 AM;February 13 2021
+FR270559593334;S20202021;FR270559;15.0;Stade Francais Paris;Castres Olympique;29.0;9.0;Stade Jean Bouin;3:05 PM;January 31 2021
+FR270559593333;S20202021;FR270559;15.0;Montpellier Herault;Racing 92;22.0;24.0;GGL Stadium;2:45 PM;January 29 2021
+FR270559593332;S20202021;FR270559;15.0;Lyon;Pau;17.0;18.0;Matmut Stadium de Gerland;12:15 PM;January 30 2021
+FR270559593331;S20202021;FR270559;15.0;Brive;Toulon;25.0;23.0;Stade Amedee-Domenech;12:15 PM;January 30 2021
+FR270559593330;S20202021;FR270559;15.0;Bayonne;Agen;48.0;20.0;Stade Jean Dauger;8:45 AM;March 13 2021
+FR270559593329;S20202021;FR270559;15.0;La Rochelle;Stade Toulousain;11.0;14.0;Stade Marcel-Deflandre;3:05 PM;February 27 2021
+FR270559593328;S20202021;FR270559;15.0;Clermont Auvergne;Bordeaux Begles;36.0;37.0;Stade Marcel Michelin;9:15 AM;January 30 2021
+FR270559593327;S20202021;FR270559;14.0;Toulon;Bayonne;14.0;16.0;Stade Mayol;2:45 PM;February 26 2021
+FR270559593326;S20202021;FR270559;14.0;Racing 92;La Rochelle;26.0;22.0;Paris La Defense Arena;8:15 AM;February 7 2021
+FR270559593325;S20202021;FR270559;14.0;Pau;Clermont Auvergne;31.0;42.0;Stade du Hameau;10:40 AM;January 10 2021
+FR270559593324;S20202021;FR270559;14.0;Castres Olympique;Agen;39.0;23.0;Stade Pierre Fabre;12:30 PM;January 9 2021
+FR270559593323;S20202021;FR270559;14.0;Brive;Montpellier Herault;23.0;22.0;Stade Amedee-Domenech;9:00 AM;Enero 10 2021
+FR270559593322;S20202021;FR270559;14.0;Bordeaux Begles;Lyon;31.0;9.0;Stade Chaban-Delmas;11:00 AM;January 10 2021
+FR270559593321;S20202021;FR270559;14.0;Stade Toulousain;Stade Francais Paris;48.0;24.0;Stade Ernest-Wallon;3:05 PM;January 10 2021
+FR270559593320;S20202021;FR270559;13.0;Stade Francais Paris;Brive;51.0;21.0;Stade Jean Bouin;12:00 PM;January 3 2021
+FR270559593319;S20202021;FR270559;13.0;Lyon;Castres Olympique;14.0;15.0;Matmut Stadium de Gerland;12:15 PM;January 2 2021
+FR270559593318;S20202021;FR270559;13.0;Bayonne;Pau;22.0;23.0;Stade Jean Dauger;3:00 PM;January 16 2021
+FR270559593317;S20202021;FR270559;13.0;Agen;La Rochelle;13.0;43.0;Alfred Armandie;12:00 PM;January 2 2021
+FR270559593316;S20202021;FR270559;13.0;Montpellier Herault;Stade Toulousain;9.0;16.0;GGL Stadium;11:30 AM;January 2 2021
+FR270559593315;S20202021;FR270559;13.0;Clermont Auvergne;Racing 92;22.0;24.0;Stade Marcel Michelin;3:05 PM;January 3 2021
+FR270559593314;S20202021;FR270559;13.0;Bordeaux Begles;Toulon;31.0;18.0;Stade Chaban-Delmas;9:15 AM;January 2 2021
+FR270559593313;S20202021;FR270559;12.0;Stade Toulousain;Bordeaux Begles;45.0;23.0;Stade Ernest-Wallon;12:00 PM;December 27 2020
+FR270559593312;S20202021;FR270559;12.0;Toulon;Clermont Auvergne;27.0;9.0;Stade Mayol;3:00 PM;December 27 2020
+FR270559593311;S20202021;FR270559;12.0;Racing 92;Agen;45.0;10.0;Paris La Defense Arena;10:00 AM;December 27 2020
+FR270559593310;S20202021;FR270559;12.0;Pau;Stade Francais Paris;29.0;27.0;Stade du Hameau;1:00 PM;December 27 2020
+FR270559593309;S20202021;FR270559;12.0;La Rochelle;Montpellier Herault;22.0;9.0;Stade Marcel-Deflandre;8:00 AM;December 27 2020
+FR270559593308;S20202021;FR270559;12.0;Castres Olympique;Bayonne;31.0;21.0;Stade Pierre Fabre;12:00 PM;February 7 2021
+FR270559593307;S20202021;FR270559;12.0;Brive;Lyon;12.0;8.0;Stade Amedee-Domenech;10:00 AM;December 27 2020
+FR270559593306;S20202021;FR270559;11.0;Pau;Castres Olympique;13.0;17.0;Stade du Hameau;12:00 PM;December 6 2020
+FR270559593305;S20202021;FR270559;11.0;Lyon;La Rochelle;22.0;18.0;Matmut Stadium de Gerland;12:15 PM;December 5 2020
+FR270559593304;S20202021;FR270559;11.0;Clermont Auvergne;Montpellier Herault;15.0;21.0;Stade Marcel Michelin;2:45 PM;December 4 2020
+FR270559593303;S20202021;FR270559;11.0;Bayonne;Stade Toulousain;20.0;24.0;Stade Jean Dauger;12:15 PM;December 5 2020
+FR270559593302;S20202021;FR270559;11.0;Agen;Brive;6.0;15.0;Alfred Armandie;12:15 PM;December 5 2020
+FR270559593301;S20202021;FR270559;11.0;Bordeaux Begles;Racing 92;12.0;17.0;Stade Chaban-Delmas;9:15 AM;December 5 2020
+FR270559593300;S20202021;FR270559;11.0;Stade Francais Paris;Toulon;24.0;23.0;Stade Jean Bouin;3:05 PM;December 6 2020
+FR270559593299;S20202021;FR270559;10.0;Stade Toulousain;Agen;63.0;18.0;Stade Ernest-Wallon;12:15 PM;November 28 2020
+FR270559593298;S20202021;FR270559;10.0;Toulon;Pau;18.0;13.0;Stade Mayol;9:15 AM;November 28 2020
+FR270559593297;S20202021;FR270559;10.0;Racing 92;Bayonne;43.0;17.0;Paris La Defense Arena;1:00 PM;November 29 2020
+FR270559593296;S20202021;FR270559;10.0;Montpellier Herault;Bordeaux Begles;22.0;23.0;GGL Stadium;12:15 PM;November 28 2020
+FR270559593295;S20202021;FR270559;10.0;La Rochelle;Brive;36.0;22.0;Stade Marcel-Deflandre;12:15 PM;November 28 2020
+FR270559593294;S20202021;FR270559;10.0;Castres Olympique;Clermont Auvergne;14.0;40.0;Stade Pierre Fabre;2:45 PM;November 27 2020
+FR270559593293;S20202021;FR270559;10.0;Lyon;Stade Francais Paris;20.0;19.0;Matmut Stadium de Gerland;3:05 PM;November 29 2020
+FR270559593292;S20202021;FR270559;9.0;Pau;Stade Toulousain;16.0;22.0;Stade du Hameau;9:15 AM;November 14 2020
+FR270559593291;S20202021;FR270559;9.0;Stade Francais Paris;La Rochelle;35.0;13.0;Stade Jean Bouin;3:05 PM;November 15 2020
+FR270559593290;S20202021;FR270559;9.0;Castres Olympique;Bordeaux Begles;29.0;30.0;Stade Pierre Fabre;2:45 PM;November 13 2020
+FR270559593289;S20202021;FR270559;9.0;Brive;Racing 92;19.0;23.0;Stade Amedee-Domenech;12:00 PM;November 14 2020
+FR270559593288;S20202021;FR270559;9.0;Bayonne;Montpellier Herault;29.0;20.0;Stade Jean Dauger;11:45 AM;November 14 2020
+FR270559593287;S20202021;FR270559;9.0;Agen;Toulon;9.0;38.0;Alfred Armandie;11:30 AM;November 14 2020
+FR270559593286;S20202021;FR270559;9.0;Clermont Auvergne;Lyon;26.0;18.0;Stade Marcel Michelin;2:45 PM;February 5 2021
+FR270559593285;S20202021;FR270559;8.0;Stade Toulousain;Castres Olympique;16.0;16.0;Stade Ernest-Wallon;9:15 AM;November 7 2020
+FR270559593284;S20202021;FR270559;8.0;Toulon;Brive;35.0;19.0;Stade Mayol;3:00 PM;November 6 2020
+FR270559593283;S20202021;FR270559;8.0;Racing 92;Pau;24.0;22.0;Paris La Defense Arena;12:15 PM;November 7 2020
+FR270559593282;S20202021;FR270559;8.0;Montpellier Herault;Stade Francais Paris;31.0;6.0;GGL Stadium;3:00 PM;February 6 2021
+FR270559593281;S20202021;FR270559;8.0;Bordeaux Begles;Bayonne;43.0;19.0;Stade Chaban-Delmas;12:15 PM;November 7 2020
+FR270559593280;S20202021;FR270559;8.0;Agen;Lyon;16.0;19.0;Alfred Armandie;1:00 PM;November 8 2020
+FR270559593279;S20202021;FR270559;8.0;La Rochelle;Clermont Auvergne;19.0;10.0;Stade Marcel-Deflandre;3:05 PM;November 8 2020
+FR270559593278;S20202021;FR270559;7.0;Pau;La Rochelle;24.0;35.0;Stade du Hameau;11:00 AM;November 1 2020
+FR270559593277;S20202021;FR270559;7.0;Lyon;Montpellier Herault;24.0;20.0;Matmut Stadium de Gerland;12:45 PM;January 6 2021
+FR270559593276;S20202021;FR270559;7.0;Castres Olympique;Racing 92;28.0;26.0;Stade Pierre Fabre;1:15 PM;October 31 2020
+FR270559593275;S20202021;FR270559;7.0;Brive;Clermont Auvergne;21.0;43.0;Stade Amedee-Domenech;10:15 AM;October 31 2020
+FR270559593274;S20202021;FR270559;7.0;Bordeaux Begles;Agen;71.0;5.0;Stade Chaban-Delmas;1:15 PM;October 31 2020
+FR270559593273;S20202021;FR270559;7.0;Bayonne;Toulon;35.0;29.0;Stade Jean Dauger;12:15 PM;November 21 2020
+FR270559593272;S20202021;FR270559;7.0;Stade Francais Paris;Stade Toulousain;48.0;14.0;Stade Jean Bouin;3:05 PM;November 1 2020
+FR270559593271;S20202021;FR270559;6.0;Stade Toulousain;Lyon;7.0;16.0;Stade Ernest-Wallon;9:35 AM;October 24 2020
+FR270559593270;S20202021;FR270559;6.0;Toulon;Castres Olympique;19.0;6.0;Stade Mayol;2:45 PM;October 23 2020
+FR270559593269;S20202021;FR270559;6.0;Montpellier Herault;Brive;30.0;6.0;GGL Stadium;12:00 PM;October 25 2020
+FR270559593268;S20202021;FR270559;6.0;La Rochelle;Bordeaux Begles;20.0;6.0;Stade Marcel-Deflandre;4:05 PM;October 25 2020
+FR270559593267;S20202021;FR270559;6.0;Clermont Auvergne;Pau;50.0;29.0;Stade Marcel Michelin;12:15 PM;October 24 2020
+FR270559593266;S20202021;FR270559;6.0;Agen;Bayonne;15.0;26.0;Alfred Armandie;12:15 PM;October 24 2020
+FR270559593265;S20202021;FR270559;6.0;Stade Francais Paris;Racing 92;25.0;27.0;Stade Jean Bouin;12:15 PM;October 24 2020
+FR270559593264;S20202021;FR270559;5.0;Pau;Bordeaux Begles;29.0;24.0;Stade du Hameau;9:30 AM;October 17 2020
+FR270559593263;S20202021;FR270559;5.0;Montpellier Herault;Agen;42.0;13.0;GGL Stadium;9:30 AM;October 17 2020
+FR270559593262;S20202021;FR270559;5.0;Lyon;Bayonne;62.0;10.0;Matmut Stadium de Gerland;11:00 AM;October 18 2020
+FR270559593261;S20202021;FR270559;5.0;La Rochelle;Castres Olympique;62.0;3.0;Stade Marcel-Deflandre;9:30 AM;October 17 2020
+FR270559593260;S20202021;FR270559;5.0;Brive;Stade Toulousain;16.0;36.0;Stade Amedee-Domenech;9:35 AM;October 17 2020
+FR270559593259;S20202021;FR270559;5.0;Clermont Auvergne;Stade Francais Paris;41.0;27.0;Stade Marcel Michelin;3:05 PM;October 18 2020
+FR270559593258;S20202021;FR270559;5.0;Racing 92;Toulon;23.0;29.0;Paris La Defense Arena;3:05 PM;January 17 2021
+FR270559593257;S20202021;FR270559;4.0;Toulon;Montpellier Herault;25.0;21.0;Stade Mayol;12:15 PM;October 10 2020
+FR270559593256;S20202021;FR270559;4.0;Pau;Lyon;29.0;29.0;Stade du Hameau;3:10 PM;October 11 2020
+FR270559593255;S20202021;FR270559;4.0;Castres Olympique;Brive;24.0;25.0;Stade Pierre Fabre;3:00 PM;December 22 2020
+FR270559593254;S20202021;FR270559;4.0;Bayonne;La Rochelle;19.0;36.0;Stade Jean Dauger;2:45 PM;October 9 2020
+FR270559593253;S20202021;FR270559;4.0;Agen;Stade Francais Paris;3.0;20.0;Alfred Armandie;12:15 PM;October 10 2020
+FR270559593252;S20202021;FR270559;4.0;Racing 92;Stade Toulousain;24.0;30.0;Paris La Defense Arena;3:00 PM;October 10 2020
+FR270559593251;S20202021;FR270559;4.0;Bordeaux Begles;Clermont Auvergne;16.0;16.0;Stade Chaban-Delmas;9:15 AM;January 16 2021
+FR270559593250;S20202021;FR270559;3.0;Stade Toulousain;Toulon;39.0;19.0;Stade Ernest-Wallon;3:00 PM;October 4 2020
+FR270559593249;S20202021;FR270559;3.0;Clermont Auvergne;Agen;31.0;12.0;Stade Marcel Michelin;9:15 AM;October 3 2020
+FR270559593248;S20202021;FR270559;3.0;La Rochelle;Racing 92;9.0;6.0;Stade Marcel-Deflandre;3:05 PM;November 22 2020
+FR270559593247;S20202021;FR270559;3.0;Brive;Pau;19.0;13.0;Stade Amedee-Domenech;2:00 PM;October 2 2020
+FR270559593246;S20202021;FR270559;3.0;Montpellier Herault;Castres Olympique;19.0;21.0;GGL Stadium;8:45 AM;January 17 2021
+FR270559593245;S20202021;FR270559;3.0;Lyon;Bordeaux Begles;27.0;10.0;Matmut Stadium de Gerland;2:45 PM;October 5 2020
+FR270559593244;S20202021;FR270559;3.0;Stade Francais Paris;Bayonne;19.0;26.0;Stade Jean Bouin;2:45 PM;October 2 2020
+FR270559593243;S20202021;FR270559;2.0;Toulon;Lyon;36.0;14.0;Stade Mayol;3:00 PM;September 13 2020
+FR270559593242;S20202021;FR270559;2.0;Pau;Agen;33.0;23.0;Stade du Hameau;2:45 PM;September 11 2020
+FR270559593241;S20202021;FR270559;2.0;Castres Olympique;Stade Francais Paris;16.0;22.0;Stade Pierre Fabre;1:00 PM;September 13 2020
+FR270559593240;S20202021;FR270559;2.0;Bayonne;Clermont Auvergne;21.0;19.0;Stade Jean Dauger;12:15 PM;September 12 2020
+FR270559593239;S20202021;FR270559;2.0;Bordeaux Begles;Brive;25.0;20.0;Stade Chaban-Delmas;12:15 PM;September 12 2020
+FR270559593238;S20202021;FR270559;2.0;Stade Toulousain;La Rochelle;39.0;23.0;Stade Ernest-Wallon;9:15 AM;September 12 2020
+FR270559593237;S20202021;FR270559;2.0;Racing 92;Montpellier Herault;41.0;17.0;Paris La Defense Arena;2:45 PM;September 11 2020
+FR270559593236;S20202021;FR270559;1.0;Clermont Auvergne;Stade Toulousain;33.0;30.0;Stade Marcel Michelin;3:00 PM;September 6 2020
+FR270559593235;S20202021;FR270559;1.0;Montpellier Herault;Pau;23.0;26.0;GGL Stadium;2:45 PM;September 4 2020
+FR270559593234;S20202021;FR270559;1.0;Agen;Castres Olympique;22.0;26.0;Alfred Armandie;12:00 PM;September 5 2020
+FR270559593233;S20202021;FR270559;1.0;Lyon;Racing 92;23.0;27.0;Matmut Stadium de Gerland;12:00 PM;September 5 2020
+FR270559593232;S20202021;FR270559;1.0;Brive;Bayonne;42.0;23.0;Stade Amedee-Domenech;2:45 PM;September 6 2020
+FR270559593231;S20202021;FR270559;1.0;La Rochelle;Toulon;29.0;15.0;Stade Marcel-Deflandre;9:15 AM;September 5 2020
+FR270559593230;S20202021;FR270559;1.0;Stade Francais Paris;Bordeaux Begles;26.0;16.0;Stade Jean Bouin;9:15 AM;November 21 2020
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
